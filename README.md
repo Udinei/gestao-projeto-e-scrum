@@ -1,4 +1,5 @@
 # gestao-projeto-e-scrum
+Este projeto é um resumo do curso Projetos ágeis com Scrum, um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
 
 Fluxo: Objetivo de negocio -> requisitos -> processo de desenvolvimento -> software
 # Objetivo de negócio 
