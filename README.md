@@ -1,6 +1,9 @@
 # gestao-projeto-e-scrum
 Este projeto é um resumo do curso Projetos ágeis com Scrum, um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
 
+# Scrum 
+Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
+
 # Fluxo
 - Objetivo de negócio
 - requisitos
@@ -135,16 +138,16 @@ necessário para entregar o software funcionando.
 - Como fazer?
  
 # Product Backlog
-  PO aprensenta as prioridades e as funcionalidade a serem implementadas.
+  PO apresenta as prioridades e as funcionalidade a serem implementadas.
   
 ### Prioridades
-Time box: 8h
- - O quê fazer? primeiras 4 horas, Funcionalidades e porquê, apresentação.
- - Como fazer? Devs pegam as atividades, Planning Poker(escolher as atividades), estimar tempo para as atividades, verificar se todos os pedidos do PO foram atendidos. Devolver ao PO a estimativa, para analise.
+<b>Time box:</b> 8h
+ - O quê fazer? Primeiras 4 horas, PO apresenta as funcionalidades e porquês.
  
-### Reuniões
-Daily Meeting
-Time-Box: 15 minutos
+ - Como fazer? Nas outras 4 horas, devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades, verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades.
+ 
+# Daily Meeting
+Reuniões com Time-Box: 15 minutos
 
 ### Participantes:
 - PO
@@ -154,9 +157,19 @@ Time-Box: 15 minutos
   - tem algum impedimento?
 - Scrum Master
 
-### Quadro Kamban
-Metodologias de gerenciamento de tasks
-atualização das tarefas (a fazer, fazendo, feito)
+### Quadro Kanban
+Sistema de gerenciamento de fluxo de trabalho, controle de tarefas e atualização do status da Sprint
+Um facilitador visual das tarefas da Sprint que precisam ser executadas.
+<b>Status Kanban</b>
+
+- a fazer
+- fazendo
+- feito
+
+Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
+- Facilita a visualização dos riscos do projeto;
+- Permite que o Product Owner e o Time de Desenvolvimento visualizem possíveis gargalos.
+- Indica produtividade individual de cada membro.
 
 ### Revisão da Sprint 
 - Time Dev apresenta para o PO o trabalho feito
