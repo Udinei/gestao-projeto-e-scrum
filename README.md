@@ -66,11 +66,13 @@ Ser ágil é diferente de rápido.
 é priorizar as coisas mais importantes:
 
 # Scrum é Ágil
-`Scrum` Framework de gerenciamento de projeto ágeis.
-`Time Box` Tempo máximo para fazer o uma cerimônias ou Sprint (reuniões).
-`Sprint` Principal evento do Scrum (Corrida , arrancada)
-`Duração de 1 Sprint` 30 dias corridos (ou menos)
 Projetos usando equipes pequenas e multidisciplinares, produzem os melhores resultados.
+
+- `Scrum` - Framework de gerenciamento de projeto ágeis.
+- `Time Box` - Tempo máximo para fazer o uma cerimônias ou Sprint (reuniões).
+- `Sprint` - Principal evento do Scrum (Corrida , arrancada)
+- `Duração de 1 Sprint` - 30 dias corridos (ou menos)
+
 
 ## Pilares Scrum
 <b>Transparência:</b> Conversar mais e escrever menos.
