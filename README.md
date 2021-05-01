@@ -114,6 +114,32 @@ V3.0 - xx+n..
 - Define as funcionalidades do software (Product Backlog).
 - Prioriza as funcionalidades de acordo com o valor do negócio.
 - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário para implementação.
+- Tem a visão do que será desenvolvido
+- Sabe as necessidades a serem atendidas
+- O público que utiliza os serviços
+- Os objetivos a serem alcançados
+- Quem visualiza valor que sera agregado
+- Define a ordem das atividades
+- Define as funcionalidades do software
+- Responsável por cancelar a spring
+- Estudo para priorizar caso nenhuma atividade seja possivel
+- Não são chefes dos 
+- Objetivo do PO: Trazer o máximo de valor possível para o produto
+- Entender o objetivo do produto
+- O que ele quer alcançar
+- Quem vai utilizar
+- Como vai utilizar
+- Em qual circuntâncias o produto sera usado? 
+- Validar se o produto faz sentido ou não
+- Não  é obrigado estar nas daily
+- Melhorar as estorias
+- Tem a visão se a Sprint esta de pé
+- Entender o desenpenho da equipe
+- O PO é responsável fica atento aos prazos 
+- Na release plane de projeto: 
+- No inicio o PO tem uma demanda muito grande, onde as estorias serão quebradas.
+  e seu entendimento
+- As funcionaliades de maior valor primeiro
 
 ### Scrum master (SM)
 - Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
@@ -181,34 +207,6 @@ Time-Box: 3h - Sprint 30 dias
 - Retrospectiva da Spring 
   - Transparência (comprometimento)
   - Reunião da equipe para lições aprendidas
-
-# Papeis e responsabilidades do Product Owner (PO), na gestão de projetos ágeis
-- Tem a visão do que será desenvolvido
-- Sabe as necessidades a serem atendidas
-- O público que utiliza os serviços
-- Os objetivos a serem alcançados
-- Quem visualiza valor que sera agregado
-- Define a ordem das atividades
-- Define as funcionalidades do software
-- Responsável por cancelar a spring
-- Estudo para priorizar caso nenhuma atividade seja possivel
-- Não são chefes dos 
-- Objetivo do PO: Trazer o máximo de valor possível para o produto
-- Entender o objetivo do produto
-- O que ele quer alcançar
-- Quem vai utilizar
-- Como vai utilizar
-- Em qual circuntâncias o produto sera usado? 
-- Validar se o produto faz sentido ou não
-- Não  é obrigado estar nas daily
-- Melhorar as estorias
-- Tem a visão se a Sprint esta de pé
-- Entender o desenpenho da equipe
-- O PO é responsável fica atento aos prazos 
-- Na release plane de projeto: 
-- No inicio o PO tem uma demanda muito grande, onde as estorias serão quebradas.
-  e seu entendimento
-- As funcionaliades de maior valor primeiro
 
 # Release Planning
 - Obrigação do PO nessa fase
