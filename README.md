@@ -69,8 +69,8 @@ Ser ágil é diferente de rápido.
 Projetos usando equipes pequenas e multidisciplinares, produzem os melhores resultados.
 
 - `Scrum` - Framework de gerenciamento de projeto ágeis.
-- `Time Box` - Tempo máximo para fazer o uma cerimônias ou Sprint (reuniões).
-- `Sprint` - Principal evento do Scrum (Corrida , arrancada)
+- `Time Box` - Tempo máximo para fazer uma cerimônias ou Sprint (reuniões).
+- `Sprint` - Principal evento do Scrum (Corrida , Arancada)
 - `Duração de 1 Sprint` - 30 dias corridos (ou menos)
 
 
@@ -98,10 +98,12 @@ Aprender progressivamente com uso do software
 Porque Startups utilizam o framework ágil? Por causa do MVP (Mínimum Viable Product).
 
 V1.0 - x
+
 V2.0 - x+1
+
 V3.0 - xx+n..
 
-# Papéis e responsábilidades no SCRUM
+# Papéis e responsabilidades no SCRUM
 ## Product Owner (PO) 
 - Representa a área de negócios (não é um comitê).   
 - Define as funcionalidades do software (Product Backlog).
@@ -109,7 +111,7 @@ V3.0 - xx+n..
 - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário para implementação.
 
 ## Scrum master (SM)
-- Garantir o uso correto do SCRUM (para que a equipe fique autogerênciável)
+- Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
 - Não é o gerente de projeto
 - Age como facilitador
 - Auxilia o Product Owner no planejamento e estimativas do backlog
@@ -120,7 +122,8 @@ V3.0 - xx+n..
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
 necessário para entregar o software funcionando.
 
-## Composição de uma Sprint(cerimônias do Scrum)
+# Cerimônias do Scrum
+### Composição de uma Sprint
 - Planejamento da Sprint
 - Reuniões diárias(Daily meeting) 
 - Revisão da Sprint (Review)
