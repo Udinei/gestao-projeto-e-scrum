@@ -1,5 +1,5 @@
 # gestao-projeto-e-scrum
-Este projeto é um resumo do curso Projetos ágeis com Scrum, um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
+Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One. Um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
 
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
@@ -42,7 +42,8 @@ O Escopo é definido na fase inicial do projeto (preditivo)
 Se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
 
 ## Ágil
-Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo)
+Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo),
+focado no minimo produto viável (MVP) e responde mais rápido para o negócio.
 
 <b>Partes</b>
 - requisitos
@@ -107,13 +108,14 @@ V2.0 - x+1
 V3.0 - xx+n..
 
 # Papéis e responsabilidades no SCRUM
-## Product Owner (PO) 
+
+### Product Owner (PO) 
 - Representa a área de negócios (não é um comitê).   
 - Define as funcionalidades do software (Product Backlog).
 - Prioriza as funcionalidades de acordo com o valor do negócio.
 - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário para implementação.
 
-## Scrum master (SM)
+### Scrum master (SM)
 - Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
 - Não é o gerente de projeto
 - Age como facilitador
@@ -121,7 +123,7 @@ V3.0 - xx+n..
 - Auxilia a equipe a remover impedimentos 
 - Treina o time em autogerenciamento e interdisciplinas
 
-## Time de desenvolvimento (DEV)
+### Time de desenvolvimento (DEV)
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
 necessário para entregar o software funcionando.
 
@@ -172,20 +174,13 @@ Possibilita que o time de trabalho execute suas tarefas com mais clareza e colab
 - Indica produtividade individual de cada membro.
 
 ### Revisão da Sprint 
+Time-Box: 3h - Sprint 30 dias
+
+- Realizada no último dia da Sprint
 - Time Dev apresenta para o PO o trabalho feito
-- Retrospectiva da Spring (ultimo dia, time de Dev)
+- Retrospectiva da Spring 
   - Transparência (comprometimento)
   - Reunião da equipe para lições aprendidas
-  - Time-Box: 3h 
-  - Sprint 30 dias
-
-# Diferença de projetos
-Tradicional x Ágil
-
-Ágil
-minimo produto viável MVP
-responde mais rápido para o negócio
-
 
 # Papeis e responsabilidades do Product Owner (PO), na gestão de projetos ágeis
 - Tem a visão do que será desenvolvido
