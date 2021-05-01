@@ -24,7 +24,7 @@ Este projeto é um resumo do curso Projetos ágeis com Scrum, um conjunto de id�
 ## Tradicional (Waterfall)
 Só permite que o projeto avance quando uma fase esta interiamente completa
 
-<b>fases:</b>
+<b>Fases:</b>
 - requirement 
 - design 
 - implementation
@@ -40,6 +40,7 @@ Se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
 
 ## Ágil
 Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo)
+
 <b>Partes</b>
 - requisitos
 - análise
@@ -52,6 +53,7 @@ O Escopo definido ao longo do projeto (adaptativo)
 - Cliente pode ver parte do software funcionando na parte inicial do projeto 
 - Mudanças constatnte de acordo com o feedbacks contínuos
 - A "cada" mês
+- 
 Se tiver algo de errado, descobre-se que estava errado em no maximo 30 dias.
 
 Ser ágil é diferente de rápido. 
@@ -60,26 +62,26 @@ Ser ágil é diferente de rápido.
 - Equipe comprometida com os objetivos.
 - Entregar o de maior valor para o cliente. 
  
-Resumo: é ter a capacidade de responder rapidamente a mudanças,
+<b>Resumo</b> é ter a capacidade de responder rapidamente a mudanças,
 é priorizar as coisas mais importantes:
 
 # Scrum é Ágil
-Scrum - framework de gerenciamento de projeto ágeis.
+`Scrum` Framework de gerenciamento de projeto ágeis.
+`Time Box` Tempo máximo para fazer o uma cerimônias ou Sprint (reuniões).
+`Sprint` Principal evento do Scrum (Corrida , arrancada)
+`Duração de 1 Sprint` 30 dias corridos (ou menos)
 Projetos usando equipes pequenas e multidisciplinares, produzem os melhores resultados.
 
 ## Pilares Scrum
-<b>Transparência</b>
-Conversar mais e escrever menos.
+<b>Transparência:</b> Conversar mais e escrever menos.
 
-<b>Adaptação</b>
-Requisitos mudam ao longo do tempo
-Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
+<b>Adaptação:</b> Requisitos mudam ao longo do tempo. Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
 
-<b>Inspeção</b>
+<b>Inspeção:</b>
 Aprender progressivamente com uso do software
 
 ## Razões para adotar o SCRUM
-- Desenvolvido e entregue em partes menores de 2 a 4 semanas, com constantes feedback
+- Os proejetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
 - Melhor gerenciamento de riscos (redução de incertezas)
 - Comprometimento, motivação e transparência da equipe (Daily meeting)
 - Maior valor para o negócio (priorização do backlog)
@@ -91,38 +93,30 @@ Aprender progressivamente com uso do software
 - As tarefas são do time e todos são responsáveis
 - Forte comprometimento com os resultados
 
-Porque Startups utilizam o framework ágil, por causa do MVP
-M - Mínimum
-V - Viable
-P - Product 
+Porque Startups utilizam o framework ágil? Por causa do MVP (Mínimum Viable Product).
 
 V1.0 - x
-V2.0 - xx
-V3.0 - xxx
+V2.0 - x+1
+V3.0 - xx+n..
 
-# Papéis e responsabilidades no SCRUM
+# Papéis e responsábilidades no SCRUM
 ## Product Owner (PO) 
 - Representa a área de negócios (não é um comitê).   
 - Define as funcionalidades do software (Product Backlog).
 - Prioriza as funcionalidades de acordo com o valor do negócio.
-- Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário.
+- Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário para implementação.
 
 ## Scrum master (SM)
-- Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
+- Garantir o uso correto do SCRUM (para que a equipe fique autogerênciável)
 - Não é o gerente de projeto
 - Age como facilitador
 - Auxilia o Product Owner no planejamento e estimativas do backlog
-- Auxilia a equipe a remover impedimentos
+- Auxilia a equipe a remover impedimentos 
 - Treina o time em autogerenciamento e interdisciplinas
 
 ## Time de desenvolvimento (DEV)
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
 necessário para entregar o software funcionando.
-
-# Scrum
-Time Box - Tempo máximo para fazer o uma cerimônias ou Sprint (reuniões).
-Sprint - Principal evento do Scrum (Corrida , arrancada)
-Duração de 1 Sprint - 30 dias corridos (ou menos)
 
 ## Composição de uma Sprint(cerimônias do Scrum)
 - Planejamento da Sprint
