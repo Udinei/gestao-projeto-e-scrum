@@ -218,24 +218,26 @@ Muitas Spring, a release pode ficar complexa
    - PO das duvidas do time sempre melhorar
    
 - Planning de projeto
-### Primeira reunião (Refining)
-Não faz parte do Scrum  mas aumenta a qualidade da planning
+ 
+# Refining (Primeira reunião)
+A Refining não faz parte do Scrum  mas aumenta a qualidade da planning
 
 É permitido a presença do stakeholders
 Objetivo da Refining é o time saber previamente o que vai ser desenvolvido
 Não pode ter dúvidas, divididas em duas etapas:
-1 - etapa:
+### 1 - etapa:
 A partir do Product BackLog
+O PO pega os itens mais refinados e priorizados do product Backlog
 O PO apresenta as estórias que serão implementadas na Planning (podem ser alteradas)
 O time lê, aceita e confere as estorias
 Tira duvidas
 
-2 - etapa da planning (outra reunião)
-O time pega cada estoria para ver qual parte vai ser desenvolvida
+### 2 - etapa da planning (outra reunião)
+O time pega cada estória para ver qual parte vai ser desenvolvida
 Não é bom o PO estar nessa reunião
-Podem quebrar estorias complexa em outras estorias
-Estorias mapeadas e atividades escritas, definindo o Sprint Backlog
-
+Podem quebrar estórias complexa em outras estórias
+Estórias mapeadas e atividades escritas, definindo o Sprint Backlog
+Quais atividades serão desenvolvidas
 Com o Sprint Backlog, o PO devéra validar a prioridade e que considerado o objetivo principal da Sprint
 O PO deve acompanhar a homologação após o merge.
 
@@ -301,15 +303,121 @@ Transformação digital:
 - Ter a mente focada em atender o cliente da melhor forma possivel
 - PO é quem entende a necessidade do cliente
 
-# Estórias x Tarefas
-- Exemplo: Épicos do projeto Bicicleta
-   
+# Conceitos de gestão de projetos ágeis com Scrum
+### Épicos -> Estórias -> Tarefas
+Épico objetivo macro que deve ser atingido, e devr ser quebrado em objetivos menores
+Épicos é um conjunto de estórias, e tarefas é um conjunto de estórias
+Levando em conta que as peças já estão prontas.
+Exemplo: Épicos do projeto Bicicleta e suas estórias
+ - Quadro (é)
+ - Garfo (é)
+    - garfo (e)
+       - montar guidão (t)
+       - montar o garfo
+       - montar o garfo no quadro
+       - montar a roda no garfo
+       - montar o sistema de freio na roda
+    - guidão(e)
+    - amortecedores(e)
+ - Celin (é)
+ - Sistema de freios (é)  
+   - manopla de freios (e)
+ - Rodas (é) 
+ - Sistema de tração (é)
+   - pedal (e)
 
-- Estórias
-- 
+Todas as dependências de tarefas entre outras estórias devem ser mapeadas 
+Após a priorização do projeto as estórias devem ser quebradas
+Épicos podem ser quebrado em outros épicos
+Estórias deve ser escrita em nivel de negócio
+
 
 ## Critérios de aceite, estimativa e Planejamento de Tarefas
+### Critérios de aceite
+É uma lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos do cliente e seja aceita pelo Product Owner.
+Tem o objetivo de definir limites para as User Stories, e ajudar o PO a detalhar em alto nivel o que é necessário para entregar valor ao cliente.
+Se não tem critério de aceite o PO não entendeu a demanda.
+Demandantes costumam ocultar o real objetivo da demanda
 
+ ### Estimativa e Planejamento de Tarefas
+ Técnica Plannig Poker, é o mais usado pra fazer estimativas
+ É de fato jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas
+ e o time vota 
+ Onde é levado em conta
+ O trabalho manual em si 
+ O tempo
+ Tarefa simples: Voto 1
+ Tarefa dificil: voto 13
+ Tarefa com nota 20: deve ser quebrada em outras
+ Os membros devem justificas suas pontuações
+ 
+ Técnicase modelo de tamanho de camisas
+   
 # Relacionamento com cliente e Stakeholders
+Uma pessoa ou Grupo que legitima as ações de uma organização
+Tem papel direto ou indireto na gestão de resultados da organização
+Pode ser afetado positivamente ou negativamente, dependendo das usa politicas e forma de atuação
+O PO se relaciona com os Stakeholders
+O relacionamento é a principal ferramenta do PO
+
+<b>Exemplo de stakeholders</b>
+Funcionários, gestores, clientes, proprietários, fornecedores, concorrentes, ONGs, Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
+
+# Ritos do Scrum
+### Daily 
+Executada diariamente dentro da Spring
+Deve ter um tempo total de 15 minutos 
+Deve ocorrer sempre no mesmo lugar e no mesmo horário
+Serve para o time saber o que cada um esta fazendo
+O PO e o SM não tem obrigatoriedade de estar nessa reunião
+Presença de todo time de desenvolvimento
+3 perguntas básicas: 
+O que fiz ontem
+O que farei hoje
+Se tenho algum impedimento
+É permitido falar qualquer assunto na Daily (sobre o projeto)
+
+### Retrospectiva
+É obrigatório a presença do SM e do time de desenvolvimento
+Focada na Sprint como um todo
+É discutido o que foi bom e ruim na Sprint
+O que deve ser melhorado
+O que não se deve fazer
+Executada uma única vez dentro da Sprint
+Sempre após a conclusão da Sprint
+Pode ser separada em duas partes(Não obrigatório)
+- 1 parte sem o PO
+- 2 parte com o PO
+
+### Refinamento 
+Um passo antes da Planing, no final da Sprint anterior
+Cerimônia não oficial do Scrum
+Objetivo de aumentar o entedimento da demanda
+Como será a próxima Sprint
+Do que se trata a demanda
+Facilitar o planejamento 
+Todos devem estar presente 
+
+### Review
+Tem o objetivo de verificar se a demanda agrega valor ao negócio
+O Time de desenvolvimento que apresenta
+O Scrum master e o PO devem estar presentes nessa reunião
+Cada um pode mostrar o que foi resolvido na Sprint anterior
+Dúvidas de negócio devem ser tiradas pelo PO
+Tirar duvidas técnica
+Todos os interesados nas entregas devem estar presentes
+Validar se esta de acordo ou se houve mudança de fluxo
+
+### Maturidade da Equipe
+Tem iniciativa
+Ajuda o PO a escrever melhor as estórias
+É o time que anda sozinho
+Pilares:
+Transparência
+Sobre as demandas que estão por vir
+Inspeção
+Questina o PO nas suas estórias
+Adaptação
+Se adapta aos novo cenários com facilidade 
 
 
