@@ -7,13 +7,13 @@ Este projeto é um resumo do curso Projetos ágeis com Scrum, um conjunto de id�
 - processo de desenvolvimento
 - software
  
-# processo de desenvolvimento
+# Processo de desenvolvimento
 - concepção
 - analise/design
 - testes
 - implantação
 
-# Curiosidade sobre uso do software
+### Curiosidade sobre uso do software
 - 45 % nunca é usado
 - 19 % raramente
 - 16 % as vezes
@@ -22,36 +22,43 @@ Este projeto é um resumo do curso Projetos ágeis com Scrum, um conjunto de id�
 
 # Gestão de projetos 
 ## Tradicional (Waterfall)
-só permite que o projeto avance quando uma fase esta interiamente completa
-<b>fases:</b>
-requirement -> design -> implementation -> verification -> maintenance
-"N" meses
+Só permite que o projeto avance quando uma fase esta interiamente completa
 
-- Escopo definido na fase inicial do projeto (preditivo)
-- Projeto é controlado pro fases e marcos
+<b>fases:</b>
+- requirement 
+- design 
+- implementation
+- verification
+- maintenance
+
+O Escopo é definido na fase inicial do projeto (preditivo)
+- Projeto é controlado por fases e marcos
 - Cliente só vê o software funcionando na fase final do projeto
 - Resistência a mudanças
-
-Se tiver algo de errado, corre o risco de descobrir depois de meses.
+- "N" meses
+Se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
 
 ## Ágil
 Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo)
-<b>partes</b>
-requisitos -> análise -> construção -> testes -> liberação
-A "cada" mês
+<b>Partes</b>
+- requisitos
+- análise
+- construção
+- testes
+- liberação
 
-- Escopo definido ao longo do projeto (adaptativo)
+O Escopo definido ao longo do projeto (adaptativo)
 - Projeto é controlado por funcionalidades entregues
 - Cliente pode ver parte do software funcionando na parte inicial do projeto 
 - Mudanças constatnte de acordo com o feedbacks contínuos
+- A "cada" mês
+Se tiver algo de errado, descobre-se que estava errado em no maximo 30 dias.
 
-Se tiver algo de errado, descobre que estava errado em no maximo 30 dias.
 Ser ágil é diferente de rápido. 
-
 - É ser rápido na mudança e desembaraço.
 - Fazer coisas complexas de forma simples.
 - Equipe comprometida com os objetivos.
-- Entregar o de maior valor pra o cliente. 
+- Entregar o de maior valor para o cliente. 
  
 Resumo: é ter a capacidade de responder rapidamente a mudanças,
 é priorizar as coisas mais importantes:
