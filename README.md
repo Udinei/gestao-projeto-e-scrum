@@ -116,30 +116,27 @@ V3.0 - xx+n..
 - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário para implementação.
 - Tem a visão do que será desenvolvido
 - Sabe as necessidades a serem atendidas
-- O público que utiliza os serviços
-- Os objetivos a serem alcançados
+- Conhece o público que utiliza os serviços
+- Conhece os objetivos a serem alcançados
 - Quem visualiza valor que sera agregado
 - Define a ordem das atividades
 - Define as funcionalidades do software
 - Responsável por cancelar a spring
-- Estudo para priorizar caso nenhuma atividade seja possivel
-- Não são chefes dos 
-- Objetivo do PO: Trazer o máximo de valor possível para o produto
-- Entender o objetivo do produto
-- O que ele quer alcançar
-- Quem vai utilizar
+- Responsável pelo estudo para priorizar caso nenhuma atividade seja possível ser executada.
+- Não é chefe do Time de desenvolvimento nem do SM
+- Trazer o máximo de valor possível para o produto
+- Entender o objetivo do produto e o que ele quer alcançar
+- Quem vai utilizar 
 - Como vai utilizar
-- Em qual circuntâncias o produto sera usado? 
+- Em qual circuntâncias o produto será usado? 
 - Validar se o produto faz sentido ou não
-- Não  é obrigado estar nas daily
-- Melhorar as estorias
-- Tem a visão se a Sprint esta de pé
+- Não  é obrigado estar nas Daily
+- Melhorar as estórias em função do feedback do time de Dev
+- Tem a visão se a Sprint está de pé
 - Entender o desenpenho da equipe
-- O PO é responsável fica atento aos prazos 
-- Na release plane de projeto: 
-- No inicio o PO tem uma demanda muito grande, onde as estorias serão quebradas.
-  e seu entendimento
-- As funcionaliades de maior valor primeiro
+- O PO é responsável por ficar atento aos prazos 
+
+Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande, onde as estórias serão quebradas e ele deve ter o entendimento das funcionaliades de maior valor primeiro.
 
 ### Scrum master (SM)
 - Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
