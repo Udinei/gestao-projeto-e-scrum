@@ -1,6 +1,6 @@
 # gestao-projeto-e-scrum
 Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One. Um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
-!{}(what-is-scrum)
+![](/what-is-scrum.png)
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
