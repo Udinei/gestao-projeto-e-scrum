@@ -536,7 +536,7 @@ Créditos: Site RGV Web
 
 
 # Referências
-[Eboock Artia Scrum](https://artia.com/wp-content/uploads/2019/02/Ebook-Artia-SCRUM.pdf)
+[Introdução ao Scrum](https://artia.com/wp-content/uploads/2019/02/Ebook-Artia-SCRUM.pdf)
 [Scaled Agile](https://www.scaledagile.com/training/calendar/](https://www.scaledagileframework.com/communities-of-practice/)
 [Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/)
 [Scrum Pattern Group](https://www.scrumplop.org/)
