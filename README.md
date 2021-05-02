@@ -164,7 +164,7 @@ V3.0 - xx+n..
 Papeis e responsabilidades no SCRUM
 
 ### Product Owner (PO) 
-![](/visao-do-produto)
+![](/visao-do-produto.png)
 Visão do produto
 Créditos: [Eduardo Borges](https://www.youtube.com/watch?v=vg1S1WYZa6o)
 - Tomar decisões, sobre data da primeira versão, quais funcionalidades ela vai ter. 
