@@ -1,6 +1,6 @@
 # gestao-projeto-e-scrum
 Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One. Um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
-![](scrum_framework-how-it-works.jpg)
+![](/scrum_framework-how-it-works.jpg)
 Créditos: Site RGV Web
 
 # Scrum 
