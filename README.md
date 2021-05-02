@@ -152,16 +152,16 @@ V2.0 - x+1
 V3.0 - xx+n..
 
 ### Papéis no Scrum
-- Scrum Master
 - Product Owner
+- Scrum Master
 - Dev Team
 
-### Eventos 
+### Eventos ou cerimônicas do Scrum
 - Sprint Planning
-- Execução Sprint
-- Daily Scrum
-- Revisão Sprint
-- Retrospectiva Spring
+- Planejamento da Sprint (Sprint Planning)
+- Reunião Diária (Daily Scrum)
+- Revisão da Sprint (Sprint Review)
+- Retrospectiva da Sprint (Sprint Retrospective)
 
 ### Artefatos gerados
 - Product Backlog
@@ -325,12 +325,20 @@ Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o P
 
 
 # Daily Meeting
-Reuniões com Time-Box: 15 minutos
+Reuniões com Time-Box: 15 minutos.
 Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
-- Todos os dias
-- No mesmo local
-
-### Participantes:
+Executada diariamente dentro da Sprint, no mesmo local
+Deve ocorrer sempre no mesmo lugar e no mesmo horário
+Serve para o time saber o que cada um esta fazendo
+O PO e o SM não tem obrigatoriedade de estar nessa reunião
+Presença de todo time de desenvolvimento
+3 perguntas básicas: 
+- O que fiz ontem
+- O que farei hoje
+- Se tenho algum impedimento
+É permitido falar qualquer assunto na Daily (sobre o projeto)
+ 
+<b>Participantes</b>
 - PO
 - Time desenvolvimento(responde)
   - o que fez no dia anterior?
@@ -339,27 +347,38 @@ Com o objetivo de saber o que falta pra terminar a Sprint e não um status repor
 - Scrum Master
 
 ### Sprint Review
-Time-Box: 3h - Sprint 30 dias
+Realizada no último dia da Sprint, tem o objetivo de verificar se a demanda agregou valor ao negócio, sendo apresentada pelo time de desenvolvimento. O Scrum master e o PO devem estar presentes nessa reunião. Cada um pode mostrar o que foi resolvido na Sprint anterior e dúvidas de negócio devem ser tiradas pelo PO.
 
-- Realizada no último dia da Sprint
+Time-Box: 3h - Sprint 30 dias
 - Time Dev apresenta para o PO o trabalho feito
-- Retrospectiva da Spring 
+- Uma Retrospectiva da Sprint 
   - Transparência (comprometimento)
   - Reunião da equipe para lições aprendidas
-- BackLog é atualizado
-- 
+- BackLog deve ser atualizado
+- Todos os interesados nas entregas devem estar presentes e validar se esta de acordo ou se houve mudança de fluxo
+- É obrigatório a presença do SM e do time de desenvolvimento
+- Focada na Sprint como um todo
+- É discutido o que foi bom e ruim na Sprint
+   - O que deve ser melhorado
+   - O que não se deve fazer
+-Executada uma única vez dentro da Sprint, sempre após a conclusão da Sprint.
+
+Pode ser separada em duas partes(Não obrigatório)
+- 1 parte sem o PO
+- 2 parte com o PO
+
 
 # Release Planning
-- Obrigação do PO nessa fase
-- Definir as maiores entregas de valor
-- Organizar as Sprint
-- Organizar as Release
-
 Liberação ou lançamento de software, um nova versão a cada vez que é criado ou modificado
 o software, o fabricante e os seus desenvolvedores distribuem os produto as pessoas que o utilizam.
 Pode acumular várias Sprint pra uma release (não recomendado)
 Muitas Spring, a release pode ficar complexa
 
+<p>Obrigações do PO nessa fase:</b>
+- Definir as maiores entregas de valor
+- Organizar as Sprint
+- Organizar as Release
+ 
 `Planning de múltiplas Squads` - Squad é o nome dado ao time que roda no método ágil com framework Scrum, e contém de 3 a 9 membros.
 
    - Vários times de desenvolvimento, em uma única release.
@@ -371,7 +390,14 @@ Muitas Spring, a release pode ficar complexa
    - Organizar release
    - PO tira todas dúvidas do time
    
- 
+ ### Refinamento 
+- Um passo antes da Planing, no final da Sprint anterior
+- Cerimônia não oficial do Scrum
+- Objetivo de aumentar o entedimento da demanda
+- Como será a próxima Sprint
+- Do que se trata a demanda
+- Facilitar o planejamento 
+- Todos devem estar presente 
 
 # Papel do PO na transformação Digital
 
@@ -487,49 +513,6 @@ O Gráfico Burnup mostra a quantidade de trabalho concluída.
 ![](/Burnup_gráfico.png)
 
 # Ritos do Scrum
-### Daily 
-Executada diariamente dentro da Spring
-Deve ter um tempo total de 15 minutos 
-Deve ocorrer sempre no mesmo lugar e no mesmo horário
-Serve para o time saber o que cada um esta fazendo
-O PO e o SM não tem obrigatoriedade de estar nessa reunião
-Presença de todo time de desenvolvimento
-3 perguntas básicas: 
-- O que fiz ontem
-- O que farei hoje
-- Se tenho algum impedimento
-É permitido falar qualquer assunto na Daily (sobre o projeto)
-
-### Retrospectiva
-É obrigatório a presença do SM e do time de desenvolvimento
-Focada na Sprint como um todo
-É discutido o que foi bom e ruim na Sprint
-O que deve ser melhorado
-O que não se deve fazer
-Executada uma única vez dentro da Sprint
-Sempre após a conclusão da Sprint
-Pode ser separada em duas partes(Não obrigatório)
-- 1 parte sem o PO
-- 2 parte com o PO
-
-### Refinamento 
-Um passo antes da Planing, no final da Sprint anterior
-Cerimônia não oficial do Scrum
-Objetivo de aumentar o entedimento da demanda
-Como será a próxima Sprint
-Do que se trata a demanda
-Facilitar o planejamento 
-Todos devem estar presente 
-
-### Review
-Tem o objetivo de verificar se a demanda agrega valor ao negócio
-O Time de desenvolvimento que apresenta
-O Scrum master e o PO devem estar presentes nessa reunião
-Cada um pode mostrar o que foi resolvido na Sprint anterior
-Dúvidas de negócio devem ser tiradas pelo PO
-Tirar duvidas técnica
-Todos os interesados nas entregas devem estar presentes
-Validar se esta de acordo ou se houve mudança de fluxo
 
 ### Maturidade da Equipe
 Tem iniciativa
