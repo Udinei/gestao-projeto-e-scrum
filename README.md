@@ -276,7 +276,7 @@ Reuniões com Time-Box: 15 minutos
 
 ###  Kanban Board
 ![](/kanban1.jpg)
-Créditos: [Artia](https://artia.com/kanban/)
+Créditos: [Jorgeaudy.com](https://jorgeaudy.com/)
 O Kanban é um Sistema de gerenciamento de fluxo de trabalho, que controla as tarefas e atualização do status da Sprint
 Funciona com um facilitador visual das tarefas da Sprint que precisam ser executadas.
 
