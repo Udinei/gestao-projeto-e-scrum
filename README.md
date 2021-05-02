@@ -229,115 +229,6 @@ necessário para entregar o software funcionando.
 - Revisão da Sprint (Review)
 - Retrospectiva da Sprint
   
-# Product Backlog
-  O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
-    
-### Prioridades
-<b>Time box:</b> 8h
- O quê fazer? 
- - Primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
- 
- - Como fazer? 
- - Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
-
-
- 
-### Sprint Planing
-Time-Box: No máximo 8 horas.
-Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. e participa o PO, o SM e Devtime. No final dessa reunião a equipe deve definir:
-
-- Quantas funcionalidades cabe na Sprint
-- O principal objetivo da Sprint
-- O que será entregue no final da Sprint
-
-
-# Daily Meeting
-Reuniões com Time-Box: 15 minutos
-Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
-- Todos os dias
-- No mesmo local
-
-### Participantes:
-- PO
-- Time desenvolvimento(responde)
-  - o que fez no dia anterior?
-  - o que esta programado para o dia?
-  - tem algum impedimento?
-- Scrum Master
-
-###  Uso do Kanban Board no Scrum
-![](/kanban2.jpg)
-
-Créditos: [Jorgeaudy.com](https://jorgeaudy.com/)
-
-O Kanban é um Sistema de gerenciamento de fluxo de trabalho, que controla as tarefas e atualização do status da Sprint
-Funciona com um facilitador visual das tarefas da Sprint que precisam ser executadas.
-
-Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
-- Facilita a visualização dos riscos do projeto;
-- Permite que o Product Owner e o Time de Desenvolvimento visualizem possíveis gargalos.
-- Indica produtividade individual de cada membro.
-- 
-<b>Status Padrão do Kanban</b>
-- a fazer
-- fazendo
-- concluído
-
-<b>Um possível Status para desenvolvimento de software com Kanban</b>
-- Solicitado
-- Design
-- Em desenvolvimento
-- Revisão de código
-- Pronto para teste
-- Em teste
-- Aguardando deploy
-- Em deploy
-- Concluído
-
-
-### Gráfico Burndown Chart Sprint 1
-O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
-![](/Burndown.png)
-
-O Gráfico Burnup mostra a quantidade de trabalho concluída.
-![](/Burnup_gráfico.png)
-
-### Sprint Review
-Time-Box: 3h - Sprint 30 dias
-
-- Realizada no último dia da Sprint
-- Time Dev apresenta para o PO o trabalho feito
-- Retrospectiva da Spring 
-  - Transparência (comprometimento)
-  - Reunião da equipe para lições aprendidas
-- BackLog é atualizado
-- 
-
-# Release Planning
-- Obrigação do PO nessa fase
-- Definir as maiores entregas de valor
-- Organizar as Sprint
-- Organizar as Release
-
-Liberação ou lançamento de software, um nova versão a cada vez que é criado ou modificado
-o software, o fabricante e os seus desenvolvedores distribuem os produto as pessoas que o utilizam.
-Pode acumular várias Sprint pra uma release (não recomendado)
-Muitas Spring, a release pode ficar complexa
- 
-### Release Planning
-`Planning de múltiplas Squads` - 
-Squad é o nome dado ao time que roda no método ágil com framework Scrum, e contém de 3 a 9 membros.
-
-   - Vários times de desenvolvimento, em uma única release.
-   - Entregas distintas e times distintos
-   - PO deve acompanhar Deploy e testes
-   - Gerência a espectativas do stakeholders
-   - Quebrar estórias com estregas de valor primeiro
-   - PO não é gerente de projeto
-   - Organizar release
-   - PO tira todas dúvidas do time
-   
- 
 # Refining (Primeira reunião)
 A Refining não faz parte do Scrum  mas aumenta a qualidade da planning
 
@@ -411,6 +302,76 @@ Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode
 - KPI (Quais os objetivos/valor a estória precisa atingir)
 - Tagueamento (como a estória será tagueada para poder mensurar os KPI )
 - Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estória deve cumprir para que ela seja considerada aceita)
+
+
+# Sprint Planning
+Time-Box: No máximo 8 horas.
+Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. e participa o PO, o SM e Devtime. No final dessa reunião a equipe deve definir:
+
+- Quantas funcionalidades cabe na Sprint
+- O principal objetivo da Sprint
+- O que será entregue no final da Sprint
+
+# Product Backlog
+  O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
+    
+### Prioridades
+<b>Time box:</b> 8h
+ O quê fazer? 
+ - Primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
+ 
+ - Como fazer? 
+ - Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
+
+
+# Daily Meeting
+Reuniões com Time-Box: 15 minutos
+Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
+- Todos os dias
+- No mesmo local
+
+### Participantes:
+- PO
+- Time desenvolvimento(responde)
+  - o que fez no dia anterior?
+  - o que esta programado para o dia?
+  - tem algum impedimento?
+- Scrum Master
+
+### Sprint Review
+Time-Box: 3h - Sprint 30 dias
+
+- Realizada no último dia da Sprint
+- Time Dev apresenta para o PO o trabalho feito
+- Retrospectiva da Spring 
+  - Transparência (comprometimento)
+  - Reunião da equipe para lições aprendidas
+- BackLog é atualizado
+- 
+
+# Release Planning
+- Obrigação do PO nessa fase
+- Definir as maiores entregas de valor
+- Organizar as Sprint
+- Organizar as Release
+
+Liberação ou lançamento de software, um nova versão a cada vez que é criado ou modificado
+o software, o fabricante e os seus desenvolvedores distribuem os produto as pessoas que o utilizam.
+Pode acumular várias Sprint pra uma release (não recomendado)
+Muitas Spring, a release pode ficar complexa
+
+`Planning de múltiplas Squads` - Squad é o nome dado ao time que roda no método ágil com framework Scrum, e contém de 3 a 9 membros.
+
+   - Vários times de desenvolvimento, em uma única release.
+   - Entregas distintas e times distintos
+   - PO deve acompanhar Deploy e testes
+   - Gerência a espectativas do stakeholders
+   - Quebrar estórias com estregas de valor primeiro
+   - PO não é gerente de projeto
+   - Organizar release
+   - PO tira todas dúvidas do time
+   
+ 
 
 # Papel do PO na transformação Digital
 
@@ -487,6 +448,43 @@ O relacionamento é a principal ferramenta do PO
 
 <b>Exemplo de stakeholders</b>
 Funcionários, gestores, clientes, proprietários, fornecedores, concorrentes, ONGs, Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
+
+###  Uso do Kanban Board no Scrum
+![](/kanban2.jpg)
+
+Créditos: [Jorgeaudy.com](https://jorgeaudy.com/)
+
+O Kanban é um Sistema de gerenciamento de fluxo de trabalho, que controla as tarefas e atualização do status da Sprint
+Funciona com um facilitador visual das tarefas da Sprint que precisam ser executadas.
+
+Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
+- Facilita a visualização dos riscos do projeto;
+- Permite que o Product Owner e o Time de Desenvolvimento visualizem possíveis gargalos.
+- Indica produtividade individual de cada membro.
+- 
+<b>Status Padrão do Kanban</b>
+- a fazer
+- fazendo
+- concluído
+
+<b>Um possível Status para desenvolvimento de software com Kanban</b>
+- Solicitado
+- Design
+- Em desenvolvimento
+- Revisão de código
+- Pronto para teste
+- Em teste
+- Aguardando deploy
+- Em deploy
+- Concluído
+
+
+### Gráfico Burndown Chart Sprint 1
+O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
+![](/Burndown.png)
+
+O Gráfico Burnup mostra a quantidade de trabalho concluída.
+![](/Burnup_gráfico.png)
 
 # Ritos do Scrum
 ### Daily 
