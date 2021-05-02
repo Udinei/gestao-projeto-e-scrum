@@ -7,6 +7,7 @@ Créditos: Site RGV Web
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 
 # Fluxo
+![](/ScrumExplained-4-620.jpg)
 - Objetivo de negócio
 - requisitos
 - processo de desenvolvimento
