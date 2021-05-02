@@ -98,9 +98,9 @@ As pessoas não sabem de fato o que querem até experimentar o produto
 
 ## Scrum traz Felicidade para equipe
 Meios pelos quais o Scrum passa a sensação de felicidade 
-1 - Autônomia
-2 - Domínio
-3 - Propósito
+- Autônomia
+- Domínio
+- Propósito
 
  
 ## Pilares Scrum 3 pilares
