@@ -5,7 +5,7 @@ Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
-Segundo o Scrum Guide, Scrum é:
+O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.org, Segundo o Scrum Guide, Scrum é:
 - Leve
 - Simples de atender
 - Difícil de dominar
