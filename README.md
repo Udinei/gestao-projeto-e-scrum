@@ -1,12 +1,11 @@
 # gestao-projeto-e-scrum
-Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One. Um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
+Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira.Um conjunto de idéias e anotações sobre o uso do Scrum no dia a dia, seus pilares, participantes e cerimônias. 
 ![](/what-is-scrum.png)
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 
 # Fluxo
-![](/ScrumExplained-4-620.jpg)
 - Objetivo de negócio
 - requisitos
 - processo de desenvolvimento
@@ -536,4 +535,8 @@ Créditos: Site RGV Web
 11. Comece de imediato o sprint seguinte, levando em consideração as experiências  od time na sprint anterior e tudo aquilo que precisa ser melhorado no próximo ciclo.
 
 
-- 
+# Referências
+[Scaled Agile](https://www.scaledagile.com/training/calendar/](https://www.scaledagileframework.com/communities-of-practice/)
+[Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/)
+[Scrum Pattern Group](https://www.scrumplop.org/)
+
