@@ -162,6 +162,8 @@ V3.0 - xx+n..
 Papeis e responsabilidades no SCRUM
 
 ### Product Owner (PO) 
+- Tomar decisões, sobre data da primeira versão, quais funcionalidades ela vai ter. 
+- Ficar atento aso feedback dos usuários
 - Poderes de liderança sobre o produto
 - Representa a área de negócios (não é um comitê).   
 - Define as funcionalidades do software (Product Backlog).
