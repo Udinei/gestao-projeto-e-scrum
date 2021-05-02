@@ -223,78 +223,82 @@ Garante o uso correto do SCRUM (para que a equipe fique autogerenciável) e:
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
 necessário para entregar o software funcionando.
 
-# Cerimônias do Scrum
-- Planejamento da Sprint
-- Reuniões diárias(Daily meeting) 
-- Revisão da Sprint (Review)
-- Retrospectiva da Sprint
+# Cerimônias do Scrum ou eventos
   
-# Refining (Primeira reunião)
-A Refining não faz parte do Scrum  mas aumenta a qualidade da planning
+## Refining (primeira Reunião)
+Time-Box: No máximo 8 horas.
+Primeira reunião, a Refining não faz parte do Scrum mas aumenta a qualidade da planning
+Objetivo dessa reunião é o time saber previamente o que vai ser desenvolvido e tirar dúvidas.
+A partir do Product BackLog. O PO pega os itens mais refinados e priorizados do product Backlog
+- O PO apresenta ao time as estórias que serão implementadas na Planning (podem ser alteradas)
+- O time lê, Tira duvidas e confere as estórias.
 
-É permitido a presença do stakeholders
-Objetivo da Refining é o time saber previamente o que vai ser desenvolvido
-Não pode ter dúvidas, divididas em duas etapas:
-### 1 - etapa:
-A partir do Product BackLog
-O PO pega os itens mais refinados e priorizados do product Backlog
-O PO apresenta as estórias que serão implementadas na Planning (podem ser alteradas)
-O time lê, aceita e confere as estorias
-Tira duvidas
+# Sprint Planning
+Time-Box: No máximo 8 horas.
+Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. 
+E participa o PO o SM e Devtime. No final dessa reunião a equipe deve definir:
+ 
+- Nas primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
+- Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
+- O time de dev pega cada estória para ver qual parte vai ser desenvolvida
+- Não é bom o PO estar nessa reunião
+- Podem quebrar estórias complexa em outras estórias
+- Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
+-  
+### Sprint Backlog
+- Com o Sprint Backlog, o PO devéra validar a prioridade e que considerado o objetivo principal da Sprint
+- Estórias mapeadas e atividades escritas
+- Quais atividades serão desenvolvidas primeiro
+- Quantas funcionalidades cabe na Sprint
+- O principal objetivo da Sprint
+- O que será entregue no final da Sprint
 
-### 2 - etapa da planning (outra reunião)
-O time pega cada estória para ver qual parte vai ser desenvolvida
-Não é bom o PO estar nessa reunião
-Podem quebrar estórias complexa em outras estórias
-Estórias mapeadas e atividades escritas, definindo o Sprint Backlog
-Quais atividades serão desenvolvidas
-Com o Sprint Backlog, o PO devéra validar a prioridade e que considerado o objetivo principal da Sprint
-O PO deve acompanhar a homologação após o merge.
-
-# Analisando escopo e definindo prioridades
+### Analisando escopo e definindo prioridades
 - Muito complexo
 - Mais dificil
 - Definição do escopo
-- 
+ 
 ### Abordagem eficiente para definir o escopo
-Forma eficiente de definir o escopo, é inverter a ordem pra entender o objetivo e valor que quer atingir, antes mesmo de definir o como, mais possibilidade irão aparecer e caminhos pra atingir o objetivo.
-Um caminho a trilhar até o objetivo, usando os feedback do cliente desde o começo.
-MVP
+Forma eficiente de definir o escopo, é inverter a ordem pra entender o objetivo e valor que quer atingir, antes mesmo de definir o como, mais possibilidade irão aparecer e caminhos pra atingir o objetivo. Um caminho a trilhar até o objetivo, usando os feedback do cliente desde o começo e criando um MVP.
 
-Inspecionar cada entrega
-Validar com os cliente se o produto esta correto e dentro da espectativas
-Realizar as alterações necessárias mais adequada ao clinte
+Deve-se:
+- Inspecionar cada entrega
+- Validar com os cliente se o produto esta correto e dentro da espectativas
+- Realizar as alterações necessárias mais adequada ao clinte
 
 
 # Product Backlog
-Composto por épicos e estórias
-Épicos = incremento sem muito detalhamento, ajuda a te direcionar os caminhos que deve seguir.
-Estórias = Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
-
-Cada produto tem seu backlog
-
-PO deve dominar o backlog
-As tasks e atividades são definidas pelo time de desenvolvimento
-e pode haver n tasks para um estorias
-
-# Escrevendo estória
+<b>Time box:</b> 8h
+Composto por épicos e estórias. As tasks e atividades são definidas pelo time de desenvolvimento e pode haver n tasks para um estorias.
+- <b>Épicos</b> - incremento sem muito detalhamento, ajuda a te direcionar os caminhos que deve seguir.
+- <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
+- Cada produto tem seu backlog
+- PO deve dominar o backlog
+  
+### Prioridades
+- O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
+- O quê fazer? 
+- Como fazer? 
+  
+### Escrevendo estória
 Nome da estória
 Descrição da estória
+
  - Eu, como, quero, quando
+ 
 Regras de negocio 
+
   (Separar regras de front-end e back-end)
+  
  Tela (Link ou imagem das telas a serem desenvolvidas)
+ 
  KPI (Quais os objetivos/valor a estória precisa atingir)
+ 
  Tagueamento (como a estória será tagueada para poder mensurar os KPI )
+ 
  Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estoria deve cumprir para que ela seja considerada aceita)
 
-## Gestão de riscos positivos
- Muito iguinorado, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas
- 
-## Gestão de riscos negativos
-Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode acabar inviabilizando-o
-
-### Script de estórias
+<b>Script de estórias</b>
 - Nome da estória
 - Descrição da estória
 - Regras de negocio 
@@ -303,25 +307,11 @@ Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode
 - Tagueamento (como a estória será tagueada para poder mensurar os KPI )
 - Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estória deve cumprir para que ela seja considerada aceita)
 
-
-# Sprint Planning
-Time-Box: No máximo 8 horas.
-Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. e participa o PO, o SM e Devtime. No final dessa reunião a equipe deve definir:
-
-- Quantas funcionalidades cabe na Sprint
-- O principal objetivo da Sprint
-- O que será entregue no final da Sprint
-
-# Product Backlog
-  O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
-    
-### Prioridades
-<b>Time box:</b> 8h
- O quê fazer? 
- - Primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
+### Gestão de riscos positivos
+ Muito iguinorado, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas
  
- - Como fazer? 
- - Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
+### Gestão de riscos negativos
+Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode acabar inviabilizando-o
 
 
 # Daily Meeting
