@@ -5,6 +5,17 @@ Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 
+### Manifesto Ágil
+- 1 - Individuos e interações em vez de processos
+- 2 - Produtos que funcionam em vez de documentação que informa sobre como o produto deve funcionar
+- 3 - Colaboração com o cliente, em vez de negociação com ele.
+- 4 - Reponder a mudanças
+
+Planejar é útil, seguir cegamente um plano é burrice.
+O planejamento deve ser feito no ínicio da Sprint
+Artigo base: O novo jogo para o desenvolvimento de novos produtos
+tem como base: Autônomia, times multifuncionais, autoridade para tomar as próprias decisões
+
 # Fluxo
 - Objetivo de negócio
 - requisitos
@@ -68,16 +79,6 @@ Ser ágil é diferente de rápido.
  
 <b>Resumo</b> é ter a capacidade de responder rapidamente a mudanças,
 é priorizar as coisas mais importantes.
-
-# Manifesto Ágil
-1 - Individuos em vez de processos
-2 - Produtos que funcionam em vez de documentação que informa sobre como o produto deve funcionar
-3 - Colaboração com o cliente, em vez de negociação com ele.
-
-Planejar é útil, seguir cegamente um plano é burrice.
-O planejamento deve ser feito no ínicio da Sprint
-Artigo base: O novo jogo para o desenvolvimento de novos produtos
-tem como base: Autônomia, times multifuncionais, autoridade para tomar as próprias decisões
 
 # Scrum é Ágil
 Cria intervalos regulares de tempo para verificar, Ciclo de inspeção e adaptação.
