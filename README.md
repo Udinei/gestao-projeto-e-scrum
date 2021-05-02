@@ -1,8 +1,7 @@
 # gestao-projeto-e-scrum
 Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One. Um conjunto de idéias e anotações sobre o uso do Scrum, seus pilares, participantes e cerimônias.
-![](/scrum_framework-how-it-works.jpg)
-Créditos: Site RGV Web
-
+!{}(what-is-scrum)
+Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 
@@ -521,6 +520,9 @@ Adaptação
 Se adapta aos novo cenários com facilidade 
 
 # Por onde começar o uso do Scrum
+![](/scrum_framework-how-it-works.jpg)
+Créditos: Site RGV Web
+
 1. Escolha um dono do produto
 2. Selecione o time
 3. Escolha o ScrumMaster
