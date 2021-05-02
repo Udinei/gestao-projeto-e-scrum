@@ -275,16 +275,26 @@ Reuniões com Time-Box: 15 minutos
 - Scrum Master
 
 ###  Kanban Board
-![](/0-kanban-artia.png)
+![](/kanban1.jpg)
 Créditos: [Artia](https://artia.com/kanban/)
-Sistema de gerenciamento de fluxo de trabalho, controle de tarefas e atualização do status da Sprint
-Um facilitador visual das tarefas da Sprint que precisam ser executadas.
-<b>Status Kanban</b>
+O Kanban é um Sistema de gerenciamento de fluxo de trabalho, que controla as tarefas e atualização do status da Sprint
+Funciona com um facilitador visual das tarefas da Sprint que precisam ser executadas.
 
+<b>Status Padrão do Kanban</b>
 - a fazer
 - fazendo
-- validação
 - concluído
+
+<b>Um possível Status para desenvolvimento de software com Kanban</b>
+- Solicitado
+- Design
+- Em desenvolvimento
+- Revisão de código
+- Pronto para teste
+- Em teste
+- Aguardando deploy
+- Em deploy
+- Concluído
 
 Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
 - Facilita a visualização dos riscos do projeto;
@@ -560,7 +570,8 @@ Créditos: Site RGV Web
 [Introdução ao Scrum](https://artia.com/wp-content/uploads/2019/02/Ebook-Artia-SCRUM.pdf)
 [Scaled Agile](https://www.scaledagile.com/training/calendar/](https://www.scaledagileframework.com/communities-of-practice/)
 [Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/)
-[Kanban](https://artia.com/kanban/)
+[Kanban Artia](https://artia.com/kanban/)
+[Kanban Jesper Boeg](https://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg/)
 [Scrum Pattern Group](https://www.scrumplop.org/)
 [Sebrae MVP](https://www.sebrae.com.br/sites/PortalSebrae/artigos/entenda-o-que-e-lean-startup,03ebb2a178c83410VgnVCM1000003b74010aRCRD)
 [MVP](https://polijunior.com.br/blog/mvp-o-que-e-e-como-fazer-um-para-sua-ideia/?utm_source=google&utm_medium=cpc&utm_campaign=pareto.in.gsn.blog&utm_term=MVP&gclid=CjwKCAjwm7mEBhBsEiwA_of-TLoShOHnNG7_3BMSzNhfp6cyppd4ZCicsly4g3GMyRtjlp4dDkPgwBoCemEQAvD_BwE)
