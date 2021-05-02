@@ -306,8 +306,7 @@ Possibilita que o time de trabalho execute suas tarefas com mais clareza e colab
 
 
 ### Gráfico Burndown Chart Sprint 1
-
-
+![](/Burndown.png)
 
 ### Sprint Review
 Time-Box: 3h - Sprint 30 dias
