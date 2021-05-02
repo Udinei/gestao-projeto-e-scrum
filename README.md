@@ -4,6 +4,11 @@ Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digita
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
+Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
+Segundo o Scrum Guide, Scrum é:
+- Leve
+- Simples de atender
+- Difícil de dominar
 
 ### Manifesto Ágil
 - 1 - Individuos e interações em vez de processos
@@ -537,6 +542,7 @@ Créditos: Site RGV Web
 
 
 # Referências
+[Scrum Guide](https://scrumguides.org/download.html)
 [Introdução ao Scrum](https://artia.com/wp-content/uploads/2019/02/Ebook-Artia-SCRUM.pdf)
 [Scaled Agile](https://www.scaledagile.com/training/calendar/](https://www.scaledagileframework.com/communities-of-practice/)
 [Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/)
