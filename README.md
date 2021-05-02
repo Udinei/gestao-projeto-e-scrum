@@ -18,28 +18,28 @@ O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.
 - Colaboração com o cliente, em vez de negociação com ele.
 - Reponder a mudanças
 
-Planejar é útil, seguir cegamente um plano é burrice, um planejamento deve ser feito no ínicio da Sprint, e a conciência de que há um novo jogo para o desenvolvimento de novos produtos
+Planejar é útil, seguir cegamente um plano é burrice, um planejamento deve ser feito no ínicio da Sprint, e a consciência de que "há um novo jogo para o desenvolvimento de novos produtos" deve estar no sangue da equipe.
 
-Característica do Scrum
+<b>Característica do Scrum</b>
 - Autônomia
 - Times multifuncionais
 - Autoridade para tomar as próprias decisões
 - Hiper produtividade
 - Flexibilidade
 
-# Fluxo
+<b>Fluxo</b>
 - Objetivo de negócio
 - requisitos
 - processo de desenvolvimento
 - software
  
-# Processo de desenvolvimento
+<b>Processo de desenvolvimento</b>
 - concepção
 - analise/design
 - testes
 - implantação
 
-### Curiosidade sobre uso do software
+<b>Curiosidade sobre uso do software</b>
 - 45 % nunca é usado
 - 19 % raramente
 - 16 % as vezes
@@ -47,7 +47,7 @@ Característica do Scrum
 - 13 % frequente
 
 # Gestão de projetos Tradicional (Waterfall)
-Só permite que o projeto avance quando uma fase esta interiamente completa
+Só permite que o projeto avance quando uma fase esta interiamente completa.
 
 <b>Fases:</b>
 - requirement 
@@ -60,8 +60,7 @@ O Escopo é definido na fase inicial do projeto (preditivo)
 - Projeto é controlado por fases e marcos
 - Cliente só vê o software funcionando na fase final do projeto
 - Resistência a mudanças
-- "N" meses
-Se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
+- "N" meses, se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
 
 ## Gestão de projetos  Ágil
 Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo),
@@ -78,9 +77,7 @@ O Escopo definido ao longo do projeto (adaptativo)
 - Projeto é controlado por funcionalidades entregues
 - Cliente pode ver parte do software funcionando na parte inicial do projeto 
 - Mudanças constatnte de acordo com o feedbacks contínuos
-- A "cada" mês
-
-Se tiver algo de errado, descobre-se que estava errado em no maximo 30 dias.
+- A "cada" mês, se tiver algo de errado, descobre-se que estava errado em no máximo 30 dias.
 
 Ser ágil é diferente de rápido. 
 - É ser rápido na mudança e desembaraço.
@@ -92,14 +89,12 @@ Ser ágil é diferente de rápido.
 é priorizar as coisas mais importantes.
 
 # Scrum é Ágil
-Cria intervalos regulares de tempo para verificar, Ciclo de inspeção e adaptação.
- 1 - Estamos na direção certa?
- 2 - É exatamente isso o que o cliente quer?
- 3 - O que podemos melhorar
+Scrum cria intervalos regulares de tempo para verificar o Ciclo de inspeção e adaptação.
+ - Estamos na direção certa?
+ - É exatamente isso o que o cliente quer?
+ - O que podemos melhorar
 
-Scrum é utilizado em cenários caóticos.
-Projetos usando equipes pequenas e multidisciplinares, produzem os melhores resultados.
-As pessoas não sabem de fato o que querem até experimentar o produto
+Scrum é utilizado em cenários caóticos. Projetos usando equipes pequenas e multidisciplinares, produzem os melhores resultados. As pessoas não sabem de fato o que querem até experimentar o produto
 
 - `Scrum` - Framework de gerenciamento de projeto ágeis.
 - `Time Box` - Tempo máximo para fazer uma cerimônias ou Sprint (reuniões).
@@ -114,7 +109,7 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Propósito
 
  
-## Pilares Scrum 3 pilares
+## Os 3 Pilares do Scrum
 <b>Transparência:</b> 
 - Conversar mais e escrever menos. 
 - Todos tem conhecimento dos processos e requisitos
@@ -122,14 +117,14 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 
 <b>Inspeção:</b>
 - Aprender progressivamente com uso do software.
-- O que esta sendo feito no projeto no sprint Review ou nas Daily
+- O que esta sendo feito no projeto, visível no Sprint Review e nas Daily
 
 <b>Adaptação:</b> 
 - Requisitos mudam ao longo do tempo. 
 - Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
 
 ### Produtividade com Scrum
-- O uso de Scrum alcança a iperprodutividade de 300 % a 800 %
+- O uso de Scrum alcança a hiperprodutividade de 300% a 800%
 
 ## Razões para adotar o SCRUM
 - Os proejetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
@@ -146,7 +141,8 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Forte comprometimento com os resultados
 - Autônomia
 
-Porque Startups utilizam o framework ágil? Por causa do MVP (Mínimum Viable Product).
+Porque Startups utilizam o framework ágil Scrum?
+Por causa do MVP (Mínimum Viable Product).
 
 V1.0 - x
 
@@ -154,7 +150,7 @@ V2.0 - x+1
 
 V3.0 - xx+n..
 
-### Papéis Básicos
+### Papéis no Scrum
 - Scrum Master
 - Product Owner
 - Dev Team
@@ -171,17 +167,17 @@ V3.0 - xx+n..
 - Sprint Backlog
 - Incremento/Entrega
 
-# Papeis
-Papeis e responsabilidades no SCRUM
-
+# Papéis e responsabilidades no SCRUM
 ### Product Owner (PO) 
+Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande, onde as estórias serão quebradas e ele deve ter o entendimento das funcionaliades de maior valor primeiro.
+
 ![](/visao-do-produto.png)
 Visão do produto
 Créditos: [Eduardo Borges](https://www.youtube.com/watch?v=vg1S1WYZa6o)
+
+O Product Owner representa a área de negócios (não é um comitê), Tem poderes de liderança sobre o produto e as responsabilidades de:
 - Tomar decisões, sobre data da primeira versão, quais funcionalidades ela vai ter. 
-- Ficar atento aso feedback dos usuários
-- Poderes de liderança sobre o produto
-- Representa a área de negócios (não é um comitê).   
+- Ficar atento aos feedback dos usuários
 - Define as funcionalidades do software (Product Backlog).
 - Prioriza as funcionalidades de acordo com o valor do negócio.
 - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário para implementação.
@@ -192,7 +188,7 @@ Créditos: [Eduardo Borges](https://www.youtube.com/watch?v=vg1S1WYZa6o)
 - Quem visualiza valor que sera agregado
 - Define a ordem das atividades
 - Define as funcionalidades do software
-- Responsável por cancelar a spring
+- Responsável por cancelar a Sprint
 - Responsável pelo estudo para priorizar caso nenhuma atividade seja possível ser executada.
 - Não é chefe do Time de desenvolvimento nem do SM
 - Trazer o máximo de valor possível para o produto
@@ -207,11 +203,10 @@ Créditos: [Eduardo Borges](https://www.youtube.com/watch?v=vg1S1WYZa6o)
 - Entender o desenpenho da equipe
 - O PO é responsável por ficar atento aos prazos 
 
-Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande, onde as estórias serão quebradas e ele deve ter o entendimento das funcionaliades de maior valor primeiro.
 
 ### Scrum master (SM)
+Garante o uso correto do SCRUM (para que a equipe fique autogerenciável) e:
 - Garantir que as reuniões sejam feitas
-- Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
 - Não é o gerente de projeto
 - Age como facilitador
 - Auxilia o Product Owner no planejamento e estimativas do backlog
@@ -221,7 +216,7 @@ Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande,
    O que fez ontem?
    O que fará hoje?
    Existe algum impedimento?
-Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
+
 
 ### Time de desenvolvimento (Dev Team)
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
@@ -240,31 +235,35 @@ necessário para entregar o software funcionando.
 - Como fazer?
  
  # Dinâmica do Scrum
- Visão do produto, PO é o responsavel por essa visão
- O que ele quer e onde quer chegar.
- Cria a lista de funcionalidades em função da visão
+ Começa com a visão do produto, sendo o PO o responsável por essa visão
+ - O que ele quer e onde quer chegar.
+ - Deve criar a lista de funcionalidades em função da visão
  
 # Product Backlog
-  PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
+  O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
     
 ### Prioridades
 <b>Time box:</b> 8h
- - O quê fazer? Primeiras 4 horas, PO apresenta as funcionalidades e porquês.
+ O quê fazer? 
+ - Primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
  
- - Como fazer? Nas outras 4 horas, devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades, verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades.
+ - Como fazer? 
+ - Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
  
 ### Sprint Planing
 Time-Box: No máximo 8 horas.
-A reunião de planejamento da Sprint tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser
+A reunião de planejamento da Sprint
+- Tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser
 executado na próxima Sprint. No final dessa reunião a equipe deve definir:
 
-- Quantas funcionalidades cabe na Spring
+- Quantas funcionalidades cabe na Sprint
 - O principal objetivo da Sprint
-- O que será entregue no final
+- O que será entregue no final da Sprint
 
 
 # Daily Meeting
 Reuniões com Time-Box: 15 minutos
+Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
 - Todos os dias
 - No mesmo local
 
@@ -276,7 +275,7 @@ Reuniões com Time-Box: 15 minutos
   - tem algum impedimento?
 - Scrum Master
 
-###  Kanban Board
+###  Uso do Kanban Board no Scrum
 ![](/kanban2.jpg)
 
 Créditos: [Jorgeaudy.com](https://jorgeaudy.com/)
@@ -284,6 +283,11 @@ Créditos: [Jorgeaudy.com](https://jorgeaudy.com/)
 O Kanban é um Sistema de gerenciamento de fluxo de trabalho, que controla as tarefas e atualização do status da Sprint
 Funciona com um facilitador visual das tarefas da Sprint que precisam ser executadas.
 
+Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
+- Facilita a visualização dos riscos do projeto;
+- Permite que o Product Owner e o Time de Desenvolvimento visualizem possíveis gargalos.
+- Indica produtividade individual de cada membro.
+- 
 <b>Status Padrão do Kanban</b>
 - a fazer
 - fazendo
@@ -300,10 +304,6 @@ Funciona com um facilitador visual das tarefas da Sprint que precisam ser execut
 - Em deploy
 - Concluído
 
-Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
-- Facilita a visualização dos riscos do projeto;
-- Permite que o Product Owner e o Time de Desenvolvimento visualizem possíveis gargalos.
-- Indica produtividade individual de cada membro.
 
 ### Gráfico Burndown Chart Sprint 1
 
