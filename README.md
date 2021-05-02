@@ -1,11 +1,13 @@
 # gestao-projeto-e-scrum
-Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira. Um conjunto de idéias e anotações sobre o uso do Scrum no dia a dia, seus pilares, participantes e cerimônias etc. 
+Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira. Um conjunto de idéias e anotações sobre o uso do Scrum no dia a dia, seus pilares, participantes, cerimônias etc. 
 ![](/what-is-scrum.png)
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
-O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.org, segundo o Scrum Guide, Scrum é:
+O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.org.
+
+<b>Segundo o Scrum Guide, Scrum é:</b>
 - Leve
 - Simples de atender
 - Difícil de dominar
