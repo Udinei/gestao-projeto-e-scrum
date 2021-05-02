@@ -513,17 +513,17 @@ Adaptação
 Se adapta aos novo cenários com facilidade 
 
 # Por onde começar o uso do Scrum
-- 1. Escolha um dono do produto
-- 2. Selecione o time
-- 3. Escolha o ScrumMaster
-- 4. Crie e ordene, de acordo com as prioridades, o backlog do produto
-- 5. Refine e estime o backlog
-- 6. Faça o planejamento do Sprint
-- 7. Torne o trabalho visível
-- 8. Realize a reunião diária 
-- 9. Faça a Revisão da Sprint
-- 10. Faça a retrospectiva da Sprint
-- 11. Comece de imediato o sprint seguinte, levando em consideração as experiências  od time na sprint anterior e tudo aquilo que precisa ser melhorado no próximo ciclo.
+1. Escolha um dono do produto
+2. Selecione o time
+3. Escolha o ScrumMaster
+4. Crie e ordene, de acordo com as prioridades, o backlog do produto
+5. Refine e estime o backlog
+6. Faça o planejamento do Sprint
+7. Torne o trabalho visível
+8. Realize a reunião diária 
+9. Faça a Revisão da Sprint
+10. Faça a retrospectiva da Sprint
+11. Comece de imediato o sprint seguinte, levando em consideração as experiências  od time na sprint anterior e tudo aquilo que precisa ser melhorado no próximo ciclo.
 
 
 - 
