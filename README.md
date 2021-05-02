@@ -539,4 +539,5 @@ Créditos: Site RGV Web
 [Scaled Agile](https://www.scaledagile.com/training/calendar/](https://www.scaledagileframework.com/communities-of-practice/)
 [Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/)
 [Scrum Pattern Group](https://www.scrumplop.org/)
-
+[Sebrae MVP](https://www.sebrae.com.br/sites/PortalSebrae/artigos/entenda-o-que-e-lean-startup,03ebb2a178c83410VgnVCM1000003b74010aRCRD)
+[MVP](https://polijunior.com.br/blog/mvp-o-que-e-e-como-fazer-um-para-sua-ideia/?utm_source=google&utm_medium=cpc&utm_campaign=pareto.in.gsn.blog&utm_term=MVP&gclid=CjwKCAjwm7mEBhBsEiwA_of-TLoShOHnNG7_3BMSzNhfp6cyppd4ZCicsly4g3GMyRtjlp4dDkPgwBoCemEQAvD_BwE)
