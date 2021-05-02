@@ -113,7 +113,7 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 <b>Transparência:</b> 
 - Conversar mais e escrever menos. 
 - Todos tem conhecimento dos processos e requisitos
-- Como está andamento do projeto
+- Como está o andamento do projeto
 
 <b>Inspeção:</b>
 - Aprender progressivamente com uso do software.
@@ -127,7 +127,7 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - O uso de Scrum alcança a hiperprodutividade de 300% a 800%
 
 ## Razões para adotar o SCRUM
-- Os proejetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
+- Os projetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
 - Melhor gerenciamento de riscos (redução de incertezas)
 - Comprometimento, motivação e transparência da equipe (Daily meeting)
 - Maior valor para o negócio (priorização do backlog)
@@ -141,7 +141,8 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Forte comprometimento com os resultados
 - Autônomia
 
-Porque Startups utilizam o framework ágil Scrum?
+Porque Startups utilizam o framework ágil Scrum
+
 Por causa do MVP (Mínimum Viable Product).
 
 V1.0 - x
@@ -169,8 +170,8 @@ V3.0 - xx+n..
 
 # Papéis e responsabilidades no SCRUM
 ### Product Owner (PO) 
-Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande, onde as estórias serão quebradas e ele deve ter o entendimento das funcionaliades de maior valor primeiro.
-
+A dinâmica do Scrum começa com a visão do produto, sendo o PO o responsável por essa visão - O que ele quer e onde quer chegar. Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande, onde as estórias serão quebradas e ele deve ter o entendimento das funcionaliades de maior valor primeiro.
+ 
 ![](/visao-do-produto.png)
 Visão do produto
 Créditos: [Eduardo Borges](https://www.youtube.com/watch?v=vg1S1WYZa6o)
@@ -223,22 +224,11 @@ Garante o uso correto do SCRUM (para que a equipe fique autogerenciável) e:
 necessário para entregar o software funcionando.
 
 # Cerimônias do Scrum
-### Composição de uma Sprint
 - Planejamento da Sprint
 - Reuniões diárias(Daily meeting) 
 - Revisão da Sprint (Review)
 - Retrospectiva da Sprint
-
-# Planejamento da Sprint
-- Quem participa?
-- O que fazer?
-- Como fazer?
- 
- # Dinâmica do Scrum
- Começa com a visão do produto, sendo o PO o responsável por essa visão
- - O que ele quer e onde quer chegar.
- - Deve criar a lista de funcionalidades em função da visão
- 
+  
 # Product Backlog
   O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
     
@@ -249,12 +239,12 @@ necessário para entregar o software funcionando.
  
  - Como fazer? 
  - Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
+
+
  
 ### Sprint Planing
 Time-Box: No máximo 8 horas.
-A reunião de planejamento da Sprint
-- Tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser
-executado na próxima Sprint. No final dessa reunião a equipe deve definir:
+Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. e participa o PO, o SM e Devtime. No final dessa reunião a equipe deve definir:
 
 - Quantas funcionalidades cabe na Sprint
 - O principal objetivo da Sprint
@@ -306,7 +296,11 @@ Possibilita que o time de trabalho execute suas tarefas com mais clareza e colab
 
 
 ### Gráfico Burndown Chart Sprint 1
+O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
 ![](/Burndown.png)
+
+O Gráfico Burnup mostra a quantidade de trabalho concluída.
+![](/Burnup_gráfico.png)
 
 ### Sprint Review
 Time-Box: 3h - Sprint 30 dias
