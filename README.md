@@ -57,7 +57,7 @@ O Escopo definido ao longo do projeto (adaptativo)
 - Cliente pode ver parte do software funcionando na parte inicial do projeto 
 - Mudanças constatnte de acordo com o feedbacks contínuos
 - A "cada" mês
-- 
+
 Se tiver algo de errado, descobre-se que estava errado em no maximo 30 dias.
 
 Ser ágil é diferente de rápido. 
