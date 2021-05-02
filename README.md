@@ -456,14 +456,21 @@ Demandantes costumam ocultar o real objetivo da demanda
  Outra Técnica de estimativa: Modelo de tamanho de camisas
    
 # Relacionamento com cliente e Stakeholders
-Uma pessoa ou Grupo que legitima as ações de uma organização
-Tem papel direto ou indireto na gestão de resultados da organização
-Pode ser afetado positivamente ou negativamente, dependendo das usa politicas e forma de atuação
-O PO se relaciona com os Stakeholders
-O relacionamento é a principal ferramenta do PO
+- Uma pessoa ou Grupo que legitima as ações de uma organização
+- Tem papel direto ou indireto na gestão de resultados da organização
+- Pode ser afetado positivamente ou negativamente, dependendo das usa politicas e forma de atuação
+- O PO se relaciona com os Stakeholders
+- O relacionamento é a principal ferramenta do PO
 
 <b>Exemplo de stakeholders</b>
-Funcionários, gestores, clientes, proprietários, fornecedores, concorrentes, ONGs, Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
+- Funcionários
+- Gestores
+- Clientes
+- Proprietários 
+- Fornecedores
+- Concorrentes
+- ONGs
+- Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
 
 ### Maturidade da Equipe
 - Ter iniciativa
@@ -505,11 +512,13 @@ Possibilita que o time de trabalho execute suas tarefas com mais clareza e colab
 
 ### Gráfico Burndown Chart Sprint 1
 O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
+
 ![](/Burndown.png)
 
 
-# O Gráfico de Burnup
+### O Gráfico de Burnup
 O Gráfico Burnup mostra a quantidade de trabalho concluída.
+
 ![](/Burnup_gráfico.png)
 
 
