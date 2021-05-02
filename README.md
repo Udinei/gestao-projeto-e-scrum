@@ -105,12 +105,12 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 ## Pilares Scrum 3 pilares
 <b>Transparência:</b> 
 - Conversar mais e escrever menos. 
-- todos tem conhecimento dos processos e requisitos
-- e do andamento do projeto
+- Todos tem conhecimento dos processos e requisitos
+- Como está andamento do projeto
 
 <b>Inspeção:</b>
-Aprender progressivamente com uso do software.
-O que esta sendo feito no projeto no sprint Review ou nas Daily
+- Aprender progressivamente com uso do software.
+- O que esta sendo feito no projeto no sprint Review ou nas Daily
 
 <b>Adaptação:</b> 
 - Requisitos mudam ao longo do tempo. 
