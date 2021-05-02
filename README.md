@@ -1,25 +1,29 @@
 # gestao-projeto-e-scrum
-Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira.Um conjunto de idéias e anotações sobre o uso do Scrum no dia a dia, seus pilares, participantes e cerimônias. 
+Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira. Um conjunto de idéias e anotações sobre o uso do Scrum no dia a dia, seus pilares, participantes e cerimônias etc. 
 ![](/what-is-scrum.png)
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
 Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
-O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.org, Segundo o Scrum Guide, Scrum é:
+O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.org, segundo o Scrum Guide, Scrum é:
 - Leve
 - Simples de atender
 - Difícil de dominar
 
 ### Manifesto Ágil
-- 1 - Individuos e interações em vez de processos
-- 2 - Produtos que funcionam em vez de documentação que informa sobre como o produto deve funcionar
-- 3 - Colaboração com o cliente, em vez de negociação com ele.
-- 4 - Reponder a mudanças
+- Individuos e interações em vez de processos
+- Produtos que funcionam em vez de documentação que informa sobre como o produto deve funcionar
+- Colaboração com o cliente, em vez de negociação com ele.
+- Reponder a mudanças
 
-Planejar é útil, seguir cegamente um plano é burrice.
-O planejamento deve ser feito no ínicio da Sprint
-Artigo base: O novo jogo para o desenvolvimento de novos produtos
-tem como base: Autônomia, times multifuncionais, autoridade para tomar as próprias decisões
+Planejar é útil, seguir cegamente um plano é burrice, um planejamento deve ser feito no ínicio da Sprint, e a conciência de que há um novo jogo para o desenvolvimento de novos produtos
+
+Característica do Scrum
+- Autônomia
+- Times multifuncionais
+- Autoridade para tomar as próprias decisões
+- Hiper produtividade
+- Flexibilidade
 
 # Fluxo
 - Objetivo de negócio
