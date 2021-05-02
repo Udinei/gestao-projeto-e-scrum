@@ -23,8 +23,7 @@ Método ágil para gestão de projetos, extremamente prescritivo, suas principai
 - 7 % sempre
 - 13 % frequente
 
-# Gestão de projetos 
-## Tradicional (Waterfall)
+# Gestão de projetos Tradicional (Waterfall)
 Só permite que o projeto avance quando uma fase esta interiamente completa
 
 <b>Fases:</b>
@@ -41,7 +40,7 @@ O Escopo é definido na fase inicial do projeto (preditivo)
 - "N" meses
 Se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
 
-## Ágil
+## Gestão de projetos  Ágil
 Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo),
 focado no minimo produto viável (MVP) e responde mais rápido para o negócio.
 
@@ -67,24 +66,57 @@ Ser ágil é diferente de rápido.
 - Entregar o de maior valor para o cliente. 
  
 <b>Resumo</b> é ter a capacidade de responder rapidamente a mudanças,
-é priorizar as coisas mais importantes:
+é priorizar as coisas mais importantes.
+
+# Manifesto Ágil
+1 - Individuos em vez de processos
+2 - Produtos que funcionam em vez de documentação que informa sobre como o produto deve funcionar
+3 - Colaboração com o cliente, em vez de negociação com ele.
+
+Planejar é útil, seguir cegamente um plano é burrice.
+O planejamento deve ser feito no ínicio da Sprint
+Artigo base: O novo jogo para o desenvolvimento de novos produtos
+tem como base: Autônomia, times multifuncionais, autoridade para tomar as próprias decisões
 
 # Scrum é Ágil
+Cria intervalos regulares de tempo para verificar, Ciclo de inspeção e adaptação.
+ 1 - Estamos na direção certa?
+ 2 - É exatamente isso o que o cliente quer?
+ 3 - O que podemos melhorar
+
+Scrum é utilizado em cenários caóticos.
 Projetos usando equipes pequenas e multidisciplinares, produzem os melhores resultados.
+As pessoas não sabem de fato o que querem até experimentar o produto
 
 - `Scrum` - Framework de gerenciamento de projeto ágeis.
 - `Time Box` - Tempo máximo para fazer uma cerimônias ou Sprint (reuniões).
 - `Sprint` - Principal evento do Scrum (Corrida , Arancada)
 - `Duração de 1 Sprint` - 30 dias corridos (ou menos)
+- Entrega evolutiva
 
+## Scrum traz Felicidade para equipe
+Meios pelos quais o Scrum passa a sensação de felicidade 
+1 - Autônomia
+2 - Domínio
+3 - Propósito
 
-## Pilares Scrum
-<b>Transparência:</b> Conversar mais e escrever menos.
-
-<b>Adaptação:</b> Requisitos mudam ao longo do tempo. Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
+ 
+## Pilares Scrum 3 pilares
+<b>Transparência:</b> 
+- Conversar mais e escrever menos. 
+- todos tem conhecimento dos processos e requisitos
+- e do andamento do projeto
 
 <b>Inspeção:</b>
-Aprender progressivamente com uso do software
+Aprender progressivamente com uso do software.
+O que esta sendo feito no projeto no sprint Review ou nas Daily
+
+<b>Adaptação:</b> 
+- Requisitos mudam ao longo do tempo. 
+- Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
+
+### Produtividade com Scrum
+- O uso de Scrum alcança a iperprodutividade de 300 % a 800 %
 
 ## Razões para adotar o SCRUM
 - Os proejetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
@@ -95,9 +127,11 @@ Aprender progressivamente com uso do software
 - Aplicações das lições apreendidas(melhoria contínua)
 
 ## Características do time SCRUM
+- Transcendência
 - Equipes capazes de se auto-organizarem
 - As tarefas são do time e todos são responsáveis
 - Forte comprometimento com os resultados
+- Autônomia
 
 Porque Startups utilizam o framework ágil? Por causa do MVP (Mínimum Viable Product).
 
@@ -107,9 +141,28 @@ V2.0 - x+1
 
 V3.0 - xx+n..
 
-# Papéis e responsabilidades no SCRUM
+### Papéis Básicos
+- Scrum Master
+- Product Owner
+- Dev Team
+
+### Eventos 
+- Sprint Planning
+- Execução Sprint
+- Daily Scrum
+- Revisão Sprint
+- Retrospectiva Spring
+
+### Artefatos gerados
+- Product Backlog
+- Sprint Backlog
+- Incremento/Entrega
+
+# Papeis
+Papeis e responsabilidades no SCRUM
 
 ### Product Owner (PO) 
+- Poderes de liderança sobre o produto
 - Representa a área de negócios (não é um comitê).   
 - Define as funcionalidades do software (Product Backlog).
 - Prioriza as funcionalidades de acordo com o valor do negócio.
@@ -139,14 +192,20 @@ V3.0 - xx+n..
 Na release planing de projeto, logo no inicio o PO tem uma demanda muito grande, onde as estórias serão quebradas e ele deve ter o entendimento das funcionaliades de maior valor primeiro.
 
 ### Scrum master (SM)
+- Garantir que as reuniões sejam feitas
 - Garantir o uso correto do SCRUM (para que a equipe fique autogerenciável)
 - Não é o gerente de projeto
 - Age como facilitador
 - Auxilia o Product Owner no planejamento e estimativas do backlog
 - Auxilia a equipe a remover impedimentos 
 - Treina o time em autogerenciamento e interdisciplinas
+- O SM é quem faz as 3 perguntas basica
+   O que fez ontem?
+   O que fará hoje?
+   Existe algum impedimento?
+Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
 
-### Time de desenvolvimento (DEV)
+### Time de desenvolvimento (Dev Team)
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
 necessário para entregar o software funcionando.
 
@@ -162,15 +221,24 @@ necessário para entregar o software funcionando.
 - O que fazer?
 - Como fazer?
  
+ # Dinâmica do Scrum
+ Visão do produto, PO é o responsavel por essa visão
+ O que ele quer e onde quer chegar.
+ Cria a lista de funcionalidades em função da visão
+ 
 # Product Backlog
-  PO apresenta as prioridades e as funcionalidade a serem implementadas.
-  
+  PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
+    
 ### Prioridades
 <b>Time box:</b> 8h
  - O quê fazer? Primeiras 4 horas, PO apresenta as funcionalidades e porquês.
  
  - Como fazer? Nas outras 4 horas, devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades, verificam se todos os pedidos do PO foram atendidos. Devolvem ao PO a estimativa, para analise e rearranjo das prioridades.
  
+### Sprint Planing
+Quantas funcionalidades cabe na Spring
+
+
 # Daily Meeting
 Reuniões com Time-Box: 15 minutos
 
@@ -182,21 +250,26 @@ Reuniões com Time-Box: 15 minutos
   - tem algum impedimento?
 - Scrum Master
 
-### Quadro Kanban
+###  Kanban Board
 Sistema de gerenciamento de fluxo de trabalho, controle de tarefas e atualização do status da Sprint
 Um facilitador visual das tarefas da Sprint que precisam ser executadas.
 <b>Status Kanban</b>
 
 - a fazer
 - fazendo
-- feito
+- validação
+- concluído
 
 Possibilita que o time de trabalho execute suas tarefas com mais clareza e colaboração.
 - Facilita a visualização dos riscos do projeto;
 - Permite que o Product Owner e o Time de Desenvolvimento visualizem possíveis gargalos.
 - Indica produtividade individual de cada membro.
 
-### Revisão da Sprint 
+### Gráfico Burndown Chart Sprint 1
+
+
+
+### Sprint Review
 Time-Box: 3h - Sprint 30 dias
 
 - Realizada no último dia da Sprint
@@ -204,6 +277,8 @@ Time-Box: 3h - Sprint 30 dias
 - Retrospectiva da Spring 
   - Transparência (comprometimento)
   - Reunião da equipe para lições aprendidas
+- BackLog é atualizado
+- 
 
 # Release Planning
 - Obrigação do PO nessa fase
@@ -216,19 +291,19 @@ o software, o fabricante e os seus desenvolvedores distribuem os produto as pess
 Pode acumular várias Sprint pra uma release (não recomendado)
 Muitas Spring, a release pode ficar complexa
  
-### Dois tipos de Release Planning
-- Planning de múltiplas Squads
+### Release Planning
+`Planning de múltiplas Squads` - 
+Squad é o nome dado ao time que roda no método ágil com framework Scrum, e contém de 3 a 9 membros.
+
    - Vários times de desenvolvimento, em uma única release.
    - Entregas distintas e times distintos
-   - PO deve acompanhar até deploy e testes
+   - PO deve acompanhar Deploy e testes
    - Gerência a espectativas do stakeholders
    - Quebrar estórias com estregas de valor primeiro
    - PO não é gerente de projeto
-   - PO definir e priorizar as entregas de valor primeiro
-   - Organizando release
-   - PO das duvidas do time sempre melhorar
+   - Organizar release
+   - PO tira todas dúvidas do time
    
-- Planning de projeto
  
 # Refining (Primeira reunião)
 A Refining não faz parte do Scrum  mas aumenta a qualidade da planning
@@ -257,7 +332,7 @@ O PO deve acompanhar a homologação após o merge.
 - Mais dificil
 - Definição do escopo
 - 
-### Abordagem eficiente pra definir o escopo
+### Abordagem eficiente para definir o escopo
 Forma eficiente de definir o escopo, é inverter a ordem pra entender o objetivo e valor que quer atingir, antes mesmo de definir o como, mais possibilidade irão aparecer e caminhos pra atingir o objetivo.
 Um caminho a trilhar até o objetivo, usando os feedback do cliente desde o começo.
 MVP
@@ -296,7 +371,13 @@ Regras de negocio
 Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode acabar inviabilizando-o
 
 ### Script de estórias
-# Papel do PO na transformação digital
+- Nome da estória
+- Descrição da estória
+- Regras de negocio 
+- Tela (Link ou imagem das telas a serem desenvolvidas)
+- KPI (Quais os objetivos/valor a estória precisa atingir)
+- Tagueamento (como a estória será tagueada para poder mensurar os KPI )
+- Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estória deve cumprir para que ela seja considerada aceita)
 
 # Papel do PO na transformação Digital
 
@@ -360,7 +441,7 @@ Demandantes costumam ocultar o real objetivo da demanda
  Tarefa simples: Voto 1
  Tarefa dificil: voto 13
  Tarefa com nota 20: deve ser quebrada em outras
- Os membros devem justificas suas pontuações
+ Os membros devem justificar suas pontuações
  
  Técnicase modelo de tamanho de camisas
    
@@ -383,9 +464,9 @@ Serve para o time saber o que cada um esta fazendo
 O PO e o SM não tem obrigatoriedade de estar nessa reunião
 Presença de todo time de desenvolvimento
 3 perguntas básicas: 
-O que fiz ontem
-O que farei hoje
-Se tenho algum impedimento
+- O que fiz ontem
+- O que farei hoje
+- Se tenho algum impedimento
 É permitido falar qualquer assunto na Daily (sobre o projeto)
 
 ### Retrospectiva
@@ -431,4 +512,18 @@ Questina o PO nas suas estórias
 Adaptação
 Se adapta aos novo cenários com facilidade 
 
+# Por onde começar o uso do Scrum
+- 1. Escolha um dono do produto
+- 2. Selecione o time
+- 3. Escolha o ScrumMaster
+- 4. Crie e ordene, de acordo com as prioridades, o backlog do produto
+- 5. Refine e estime o backlog
+- 6. Faça o planejamento do Sprint
+- 7. Torne o trabalho visível
+- 8. Realize a reunião diária 
+- 9. Faça a Revisão da Sprint
+- 10. Faça a retrospectiva da Sprint
+- 11. Comece de imediato o sprint seguinte, levando em consideração as experiências  od time na sprint anterior e tudo aquilo que precisa ser melhorado no próximo ciclo.
 
+
+- 
