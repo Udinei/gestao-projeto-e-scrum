@@ -499,22 +499,11 @@ Possibilita que o time de trabalho execute suas tarefas com mais clareza e colab
 O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
 ![](/Burndown.png)
 
+
+
 O Gráfico Burnup mostra a quantidade de trabalho concluída.
 ![](/Burnup_gráfico.png)
 
-# Ritos do Scrum
-
-### Maturidade da Equipe
-Tem iniciativa
-Ajuda o PO a escrever melhor as estórias
-É o time que anda sozinho
-Pilares:
-Transparência
-Sobre as demandas que estão por vir
-Inspeção
-Questina o PO nas suas estórias
-Adaptação
-Se adapta aos novo cenários com facilidade 
 
 # Por onde começar o uso do Scrum
 ![](/scrum_framework-how-it-works.jpg)
@@ -536,7 +525,7 @@ Créditos: Site RGV Web
 # Referências
 - [Scrum Guide](https://scrumguides.org/download.html)
 - [Introdução ao Scrum](https://artia.com/wp-content/uploads/2019/02/Ebook-Artia-SCRUM.pdf)
-- [Scaled Agile](https://www.scaledagile.com/training/calendar/](https://www.scaledagileframework.com/communities-of-practice/)
+- [Scaled Agile](https://www.scaledagileframework.com/communities-of-practice/)
 - [Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/)
 - [Kanban Artia](https://artia.com/kanban/)
 - [Kanban Jesper Boeg](https://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg/)
