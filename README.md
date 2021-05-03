@@ -290,16 +290,17 @@ necessário para entregar o software funcionando.
   
 ## Refining (primeira Reunião)
 Time-Box: No máximo 8 horas.
-Primeira reunião, a Refining não faz parte do Scrum mas aumenta a qualidade da planning
-Objetivo dessa reunião é o time saber previamente o que vai ser desenvolvido e tirar dúvidas.
-A partir do Product BackLog. O PO pega os itens mais refinados e priorizados do product Backlog
+
+É a primeira reunião, a Refining não faz parte do Scrum mas aumenta a qualidade da planning, tem o objetivo de informar ao time previamente o que vai ser desenvolvido e tirar dúvidas.
+
+- A partir do Product BackLog, o PO pega os itens mais refinados e priorizados do product Backlog
 - O PO apresenta ao time as estórias que serão implementadas na Planning (podem ser alteradas)
 - O time lê, Tira duvidas e confere as estórias.
 
 # Sprint Planning
 Time-Box: No máximo 8 horas.
-Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. 
-E participa o PO o SM e Devtime. No final dessa reunião a equipe deve definir:
+
+Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. E participa o PO o SM e Devtime. No final dessa reunião a equipe deve definir:
  
 - Nas primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
 - Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
