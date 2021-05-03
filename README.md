@@ -88,6 +88,12 @@ Ser ágil é diferente de rápido.
 <b>Resumo</b> é ter a capacidade de responder rapidamente a mudanças,
 é priorizar as coisas mais importantes.
 
+### Gestão de riscos positivos
+ Muito iguinorado, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas
+ 
+### Gestão de riscos negativos
+Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode acabar inviabilizando-o
+
 # Scrum é Ágil
 Scrum cria intervalos regulares de tempo para verificar o Ciclo de inspeção e adaptação.
  - Estamos na direção certa?
@@ -136,18 +142,18 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - 
 # Conceitos de gestão de projetos ágeis com Scrum
 ### Épicos -> Estórias -> Tarefas
-Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. Os Épicos são um conjunto de estórias e as tarefas é um conjunto de estórias. Levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias:  
+Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. As Estórias são um conjunto de Épicos as tarefas um conjunto de estórias. Por exemplo, levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias:  (é)Epicos, (e)estorias, (t)tarefas.
 
  - Quadro (é)
  - Garfo (é)
     - garfo (e)
        - montar guidão (t)
-       - montar o garfo
-       - montar o garfo no quadro
-       - montar a roda no garfo
-       - montar o sistema de freio na roda
-    - guidão(e)
-    - amortecedores(e)
+       - montar o garfo (t)
+       - montar o garfo no quadro (t)
+       - montar a roda no garfo (t)
+       - montar o sistema de freio na roda (t)
+    - guidão (e)
+    - amortecedores (e)
  - Celin (é)
  - Sistema de freios (é)  
    - manopla de freios (e)
@@ -155,10 +161,7 @@ Meios pelos quais o Scrum passa a sensação de felicidade
  - Sistema de tração (é)
    - pedal (e)
 
-Todas as dependências de tarefas entre outras estórias devem ser mapeadas 
-Após a priorização do projeto as estórias devem ser quebradas
-Épicos podem ser quebrado em outros épicos
-Estórias deve ser escrita em nivel de negócio
+Todas as dependências de tarefas entre outras estórias devem ser mapeadas. Após a priorização do projeto as estórias devem ser quebradas, sendo que os Épicos podem ser quebrado em outros épicos e as Estórias escritas em nivel de negócio.
 
 
 ## Critérios de aceite, estimativa e Planejamento de Tarefas
@@ -169,18 +172,12 @@ Se não tem critério de aceite o PO não entendeu a demanda.
 Demandantes costumam ocultar o real objetivo da demanda
 
  ### Estimativa e Planejamento de Tarefas
- Técnica Plannig Poker, é o mais usado pra fazer estimativas
- É de fato jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas
- e o time vota 
- Onde é levado em conta
- O trabalho manual em si 
- O tempo
- Tarefa simples: Voto 1
- Tarefa dificil: voto 13
- Tarefa com nota 20: deve ser quebrada em outras
- Os membros devem justificar suas pontuações
- 
- Outra Técnica de estimativa: Modelo de tamanho de camisas
+ Técnica Plannig Poker, é o mais usado pra fazer estimativas é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida.
+ - Tarefa simples: Voto 1
+ - Tarefa dificil: voto 13
+ - Tarefa com nota 20: deve ser quebrada em outras
+ - Os membros devem justificar suas pontuações
+ - Outra Técnica de estimativa: Modelo de tamanho de camisas
    
 # Relacionamento com cliente e Stakeholders
 - Uma pessoa ou Grupo que legitima as ações de uma organização
@@ -372,13 +369,6 @@ Regras de negocio
 - KPI (Quais os objetivos/valor a estória precisa atingir)
 - Tagueamento (como a estória será tagueada para poder mensurar os KPI )
 - Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estória deve cumprir para que ela seja considerada aceita)
-
-### Gestão de riscos positivos
- Muito iguinorado, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas
- 
-### Gestão de riscos negativos
-Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode acabar inviabilizando-o
-
 
 # Daily Meeting
 Reuniões com Time-Box: 15 minutos.
