@@ -133,12 +133,11 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Maior valor para o negócio (priorização do backlog)
 - Usuários envolvidos durante todo o ciclo
 - Aplicações das lições apreendidas(melhoria contínua)
+- 
 # Conceitos de gestão de projetos ágeis com Scrum
 ### Épicos -> Estórias -> Tarefas
-Épico objetivo macro que deve ser atingido, e devr ser quebrado em objetivos menores
-Épicos é um conjunto de estórias, e tarefas é um conjunto de estórias
-Levando em conta que as peças já estão prontas.
-Exemplo: Épicos do projeto Bicicleta e suas estórias
+Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. Os Épicos são um conjunto de estórias e as tarefas é um conjunto de estórias. Levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias:  
+
  - Quadro (é)
  - Garfo (é)
     - garfo (e)
