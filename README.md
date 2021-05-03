@@ -1,5 +1,5 @@
 # gestao-projeto-e-scrum
-Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira. Um conjunto de idéias e anotações sobre o uso do Scrum no dia a dia, seus pilares, participantes, cerimônias etc. 
+Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira. Um conjunto de conceitos, idéias e anotações sobre o uso do Scrum no dia a dia.
 ![](/what-is-scrum.png)
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
