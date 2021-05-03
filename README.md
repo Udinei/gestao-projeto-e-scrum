@@ -3,7 +3,7 @@ Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digita
 ![](/what-is-scrum.png)
 Créditos: [Simpla](https://www.sympla.com.br/)
 # Scrum 
-Método ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
+Framework ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
 O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.org.
 
@@ -110,7 +110,7 @@ Scrum é utilizado em cenários caóticos. Projetos usando equipes pequenas e mu
 
 ## Scrum traz Felicidade para equipe
 Meios pelos quais o Scrum passa a sensação de felicidade 
-- Autônomia
+- Autonomia
 - Domínio
 - Propósito
 
