@@ -8,6 +8,10 @@ Créditos: [Simpla](https://www.sympla.com.br/)
 - Processo de desenvolvimento (concepção, análise & desing, desenvolvimento, Testes, Implantação)
 - Software
 
+### O que o cliente pediu o que foi entregue
+![](/desenvolvimento-agil-mvp-engenharia-de-software.jpg)
+
+
 # Scrum conceitos básicos
 Framework ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
@@ -69,8 +73,7 @@ O Escopo é definido na fase inicial do projeto (preditivo)
 - "N" meses, se tiver algo de errado no projeto, corre o risco de descobrir depois de meses.
 
 ## Gestão de projetos  Ágil
-Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo),
-focado no minimo produto viável (MVP) e responde mais rápido para o negócio.
+Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo) com entrega de uma funcionalidade. Focado no minimo produto viável (MVP) e responde mais rápido para o negócio.
 
 <b>Partes</b>
 - requisitos
@@ -82,7 +85,7 @@ focado no minimo produto viável (MVP) e responde mais rápido para o negócio.
 O Escopo definido ao longo do projeto (adaptativo)
 - Projeto é controlado por funcionalidades entregues
 - Cliente pode ver parte do software funcionando na parte inicial do projeto 
-- Mudanças constatnte de acordo com o feedbacks contínuos
+- Mudanças constantes de acordo com o feedbacks contínuos
 - A "cada" mês, se tiver algo de errado, descobre-se que estava errado em no máximo 30 dias.
 
 Ser ágil é diferente de rápido. 
@@ -102,6 +105,9 @@ Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode
 
 # Scrum é Ágil
 Scrum cria intervalos regulares de tempo para verificar o Ciclo de inspeção e adaptação.
+
+![](/minimo-produto-viavel.png)
+
  - Estamos na direção certa?
  - É exatamente isso o que o cliente quer?
  - O que podemos melhorar
