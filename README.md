@@ -204,25 +204,7 @@ Demandantes costumam ocultar o real objetivo da demanda
 - Concorrentes
 - ONGs
 - Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
-
-
-### Características do time SCRUM
-- Transcendência
-- Equipes capazes de se auto-organizarem
-- As tarefas são do time e todos são responsáveis
-- Forte comprometimento com os resultados
-- Autônomia
-- Startups utilizam o framework ágil Scrum
-- Faz uso do MVP (Mínimum Viable Product). 
-
-### Maturidade da Equipe
-- Ter iniciativa
-- Ajudar o PO a escrever melhor as estórias
-- O time que anda sozinho
-- Possue Transparência sobre as demandas que estão por vir
-- Inspeciona e questina o PO nas suas estórias
-- Se adapta aos novo cenários com facilidade
-- 
+ 
 ### Papéis no Scrum
 - Product Owner
 - Scrum Master
@@ -291,10 +273,27 @@ Garante o uso correto do SCRUM (para que a equipe fique autogerenciável) e:
    Existe algum impedimento?
 
 
-### Time de desenvolvimento (Dev Team)
+# Time de desenvolvimento (Dev Team)
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, tudo o que for
 necessário para entregar o software funcionando.
 
+### Características do time SCRUM
+- Transcendência
+- Equipes capazes de se auto-organizarem
+- As tarefas são do time e todos são responsáveis
+- Forte comprometimento com os resultados
+- Autônomia
+- Startups utilizam o framework ágil Scrum
+- Faz uso do MVP (Mínimum Viable Product). 
+
+### Maturidade da Equipe
+- Ter iniciativa
+- Ajudar o PO a escrever melhor as estórias
+- O time que anda sozinho
+- Possue Transparência sobre as demandas que estão por vir
+- Inspeciona e questina o PO nas suas estórias
+- Se adapta aos novo cenários com facilidade
+- 
 # Cerimônias do Scrum ou eventos
   
 ## Refining (primeira Reunião)
