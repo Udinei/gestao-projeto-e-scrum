@@ -8,10 +8,6 @@ Créditos: [Simpla](https://www.sympla.com.br/)
 - Processo de desenvolvimento (concepção, análise & desing, desenvolvimento, Testes, Implantação)
 - Software
 
-### O que o cliente pediu o que foi entregue
-![](/desenvolvimento-agil-mvp-engenharia-de-software.jpg)
-
-
 # Scrum conceitos básicos
 Framework ágil para gestão de projetos, extremamente prescritivo, suas principais recomendações devem ser seguidas à risca.
 Scrum é um framework ágil iterativo e incremental porque seus projetos são desenvolvidos com várias atividades em paralelo, que são integradas quando estão finalizadas. E iterativo porque é desenvolvido em um ciclo de vida de várias iterações.
@@ -30,26 +26,27 @@ O Scrum é mantido e regulamentado pelas instituições: Scrum Alliance e Scrum.
 
 Planejar é útil, seguir cegamente um plano é burrice, um planejamento deve ser feito no ínicio da Sprint, e a consciência de que "há um novo jogo para o desenvolvimento de novos produtos" deve estar no sangue da equipe.
 
-<b>Característica do Scrum</b>
+# Característica do Scrum
+
 - Autônomia
 - Times multifuncionais
 - Autoridade para tomar as próprias decisões
 - Hiper produtividade
 - Flexibilidade
 
-<b>Fluxo</b>
+### Fluxo
 - Objetivo de negócio
 - requisitos
 - processo de desenvolvimento
 - software
  
-<b>Processo de desenvolvimento</b>
+### Processo de desenvolvimento
 - concepção
 - analise/design
 - testes
 - implantação
 
-<b>Curiosidade sobre uso do software</b>
+# Curiosidade sobre uso do software
 - 45 % nunca é usado
 - 19 % raramente
 - 16 % as vezes
@@ -74,6 +71,8 @@ O Escopo é definido na fase inicial do projeto (preditivo)
 
 ## Gestão de projetos  Ágil
 Software construido por partes (incremental) e cada parte executada em um ciclo (iterativo) com entrega de uma funcionalidade. Focado no minimo produto viável (MVP) e responde mais rápido para o negócio.
+
+![](/minimo-produto-viavel.png)
 
 <b>Partes</b>
 - requisitos
@@ -105,8 +104,6 @@ Itens que podem afetar o prazo, custo e escopo de um projeto de maneira que pode
 
 # Scrum é Ágil
 Scrum cria intervalos regulares de tempo para verificar o Ciclo de inspeção e adaptação.
-
-![](/minimo-produto-viavel.png)
 
  - Estamos na direção certa?
  - É exatamente isso o que o cliente quer?
