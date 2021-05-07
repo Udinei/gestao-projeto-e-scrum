@@ -155,7 +155,7 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Dev Team
 
 ### Eventos ou cerimônicas do Scrum
-- Sprint Planning
+Sprint (Principal evento do SCRUM) dura até 30 dias corridos ou menos. Nesse período as atividades abaixo devem ser desenvolvidas.
 - Planejamento da Sprint (Sprint Planning)
 - Reunião Diária (Daily Scrum)
 - Revisão da Sprint (Sprint Review)
@@ -238,7 +238,7 @@ necessário para entregar o software funcionando.
 - Inspeciona e questina o PO nas suas estórias
 - Se adapta aos novo cenários com facilidade
 - 
-# Cerimônias do Scrum ou eventos
+# Descrição das Cerimônias do Scrum
 ## Refining (primeira Reunião)
 Time-Box: No máximo 8 horas.
 
