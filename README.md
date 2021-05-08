@@ -368,7 +368,7 @@ Composto por épicos e estórias. E cada produto tem seu backlog. O PO deve domi
 - <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
 
 <b>Nota:</b>
-- <b>Tasks</b>  - as atividades são definidas no Sprint BackLog pelo time de desenvolvimento e pode haver "n" tasks para uma estórias.
+- <b>Tasks</b>  - as atividades são definidas no Sprint BackLog pelo time de desenvolvimento e pode haver "n" tasks para uma estórias. Tarefas é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
 
 ### Prioridades do Backlog
 - O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
