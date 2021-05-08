@@ -351,11 +351,12 @@ Deve-se:
 # Product Backlog
 ![](product-back-log.png)
 <b>Time box:</b> 8h
-Composto por épicos e estórias. As tasks e atividades são definidas pelo time de desenvolvimento e pode haver n tasks para um estorias.
+Composto por épicos, estórias e tasks. E cada produto tem seu backlog. O PO deve dominar o backlog. 
+
 - <b>Épicos</b> - incremento sem muito detalhamento, ajuda a te direcionar os caminhos que deve seguir.
 - <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
-- Cada produto tem seu backlog
-- PO deve dominar o backlog
+- <b>Tasks</b>  - as atividades são definidas pelo time de desenvolvimento e pode haver "n" tasks para um estórias.
+
 
 ### Prioridades
 - O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
