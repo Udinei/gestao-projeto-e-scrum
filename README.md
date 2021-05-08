@@ -198,13 +198,13 @@ Se não tem critério de aceite o PO não entendeu a demanda.
 Demandantes costumam ocultar o real objetivo da demanda
 
  ### Estimativa e Planejamento de Tarefas
- A técnica mais utilizada para estimativa é o Plannig Poker, feita pelo timeDev, que é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida. 
+ A técnica mais utilizada para `estimativa` é o <b>Plannig Poker</b>, feita pelo timeDev, que é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida. 
  - Tarefa simples: Voto 1
  - Tarefa dificil: voto 13
  - Tarefa com nota 20: deve ser quebrada em outras
  - Os membros devem justificar suas pontuações
  - Outra Técnica de estimativa: Modelo de tamanho de camisas
-   
+ - Tarefas é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
  
 ## Razões para adotar o SCRUM
 - Os projetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
@@ -368,7 +368,7 @@ Composto por épicos e estórias. E cada produto tem seu backlog. O PO deve domi
 - <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
 
 <b>Nota:</b>
-- <b>Tasks</b>  - as atividades são definidas no Sprint BackLog pelo time de desenvolvimento e pode haver "n" tasks para uma estórias. Tarefas é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
+- <b>Tasks</b>  - as atividades são definidas no Sprint BackLog pelo time de desenvolvimento e pode haver "n" tasks para uma estórias.
 
 ### Prioridades do Backlog
 - O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
