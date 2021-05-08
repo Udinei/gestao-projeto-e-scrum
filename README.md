@@ -336,11 +336,13 @@ planning, tem o objetivo de informar ao time previamente o que vai ser desenvolv
 
 # Definindo escopo
 ### Abordagem eficiente para definir o escopo
+
 ![](Analisando-escopo.png)
+
 Forma eficiente de definir o escopo, é inverter a ordem pra entender o objetivo e valor que quer atingir, antes mesmo de definir o como, mais possibilidade irão aparecer e caminhos pra atingir o objetivo. Um caminho a trilhar até o objetivo, usando os feedback do cliente desde o começo e criando um MVP.
 
-
 ![](prioridade.png)
+
 Deve-se:
 - Inspecionar cada entrega
 - Validar com os cliente se o produto esta correto e dentro das espectativas
