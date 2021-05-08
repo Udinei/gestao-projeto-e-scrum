@@ -141,6 +141,62 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 ### Produtividade com Scrum
 - O uso de Scrum alcança a hiperprodutividade de 300% a 800%
 
+# Conceitos de gestão de projetos ágeis com Scrum
+### Relacionamento com cliente e Stakeholders
+- Uma pessoa ou Grupo que legitima as ações de uma organização
+- Tem papel direto ou indireto na gestão de resultados da organização
+- Pode ser afetado positivamente ou negativamente, dependendo das usa politicas e forma de atuação
+- O PO se relaciona com os Stakeholders
+- O relacionamento é a principal ferramenta do PO
+
+<b>Exemplo de stakeholders</b>
+- Funcionários
+- Gestores
+- Clientes
+- Proprietários 
+- Fornecedores
+- Concorrentes
+- ONGs
+- Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
+ 
+ 
+### Épicos -> Estórias -> Tarefas
+Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. As Estórias são um conjunto de Épicos as tarefas um conjunto de estórias. Por exemplo, levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias:  (é)Epicos, (e)estorias, (t)tarefas.
+
+ - Quadro (é)
+ - Garfo (é)
+    - garfo (e)
+       - montar guidão (t)
+       - montar o garfo (t)
+       - montar o garfo no quadro (t)
+       - montar a roda no garfo (t)
+       - montar o sistema de freio na roda (t)
+    - guidão (e)
+    - amortecedores (e)
+ - Celin (é)
+ - Sistema de freios (é)  
+   - manopla de freios (e)
+ - Rodas (é) 
+ - Sistema de tração (é)
+   - pedal (e)
+
+Todas as dependências de tarefas entre outras estórias devem ser mapeadas. Após a priorização do projeto as estórias devem ser quebradas, sendo que os Épicos podem ser quebrado em outros épicos e as Estórias escritas em nivel de negócio.
+
+### Critérios de aceite
+É uma lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos do cliente e seja aceita pelo Product Owner.
+Tem o objetivo de definir limites para as User Stories, e ajudar o PO a detalhar em alto nivel o que é necessário para entregar valor ao cliente.
+Se não tem critério de aceite o PO não entendeu a demanda.
+Demandantes costumam ocultar o real objetivo da demanda
+
+ ### Estimativa e Planejamento de Tarefas
+ Técnica Plannig Poker, é o mais usado pra fazer estimativas é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida.
+ - Tarefa simples: Voto 1
+ - Tarefa dificil: voto 13
+ - Tarefa com nota 20: deve ser quebrada em outras
+ - Os membros devem justificar suas pontuações
+ - Outra Técnica de estimativa: Modelo de tamanho de camisas
+   
+ 
 ## Razões para adotar o SCRUM
 - Os projetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
 - Melhor gerenciamento de riscos (redução de incertezas)
@@ -267,73 +323,17 @@ planning, tem o objetivo de informar ao time previamente o que vai ser desenvolv
 
 É uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint.  No final dessa reunião a equipe deve definir:
 
-<b>Próximas 4 horas </b>
-Participa dessa reunião o SM e Devtime, onde os devs pegam as estórias para analizar a complexidade
+<b>Na próximas 4 horas </b>
+Outra reunião onde participa o SM e Devtime (O PO não deve participar dessa reunião) onde os devs pegam as estórias para analizar a complexidade
 - Usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
 - O time de dev pega cada estória para ver qual parte vai ser desenvolvida
 - Podem quebrar estórias complexa em outras estórias
 - Devolvem ao PO a estimativa, para analise e rearranjo das prioridades
-- O PO inicia a criação do Sprint backlog.
+- Para o PO iniciar a criação do Sprint backlog.
 
 
  
-# Conceitos de gestão de projetos ágeis com Scrum
-### Épicos -> Estórias -> Tarefas
-Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. As Estórias são um conjunto de Épicos as tarefas um conjunto de estórias. Por exemplo, levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias:  (é)Epicos, (e)estorias, (t)tarefas.
 
- - Quadro (é)
- - Garfo (é)
-    - garfo (e)
-       - montar guidão (t)
-       - montar o garfo (t)
-       - montar o garfo no quadro (t)
-       - montar a roda no garfo (t)
-       - montar o sistema de freio na roda (t)
-    - guidão (e)
-    - amortecedores (e)
- - Celin (é)
- - Sistema de freios (é)  
-   - manopla de freios (e)
- - Rodas (é) 
- - Sistema de tração (é)
-   - pedal (e)
-
-Todas as dependências de tarefas entre outras estórias devem ser mapeadas. Após a priorização do projeto as estórias devem ser quebradas, sendo que os Épicos podem ser quebrado em outros épicos e as Estórias escritas em nivel de negócio.
-
-
-# Critérios de aceite, estimativa e Planejamento de Tarefas
-
-### Critérios de aceite
-É uma lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos do cliente e seja aceita pelo Product Owner.
-Tem o objetivo de definir limites para as User Stories, e ajudar o PO a detalhar em alto nivel o que é necessário para entregar valor ao cliente.
-Se não tem critério de aceite o PO não entendeu a demanda.
-Demandantes costumam ocultar o real objetivo da demanda
-
- ### Estimativa e Planejamento de Tarefas
- Técnica Plannig Poker, é o mais usado pra fazer estimativas é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida.
- - Tarefa simples: Voto 1
- - Tarefa dificil: voto 13
- - Tarefa com nota 20: deve ser quebrada em outras
- - Os membros devem justificar suas pontuações
- - Outra Técnica de estimativa: Modelo de tamanho de camisas
-   
-# Relacionamento com cliente e Stakeholders
-- Uma pessoa ou Grupo que legitima as ações de uma organização
-- Tem papel direto ou indireto na gestão de resultados da organização
-- Pode ser afetado positivamente ou negativamente, dependendo das usa politicas e forma de atuação
-- O PO se relaciona com os Stakeholders
-- O relacionamento é a principal ferramenta do PO
-
-<b>Exemplo de stakeholders</b>
-- Funcionários
-- Gestores
-- Clientes
-- Proprietários 
-- Fornecedores
-- Concorrentes
-- ONGs
-- Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
- 
 # Definindo escopo
 ### Abordagem eficiente para definir o escopo
 ![](Analisando-escopo.png)
