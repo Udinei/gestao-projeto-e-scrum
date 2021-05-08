@@ -155,7 +155,7 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Dev Team
 
 ### Eventos ou cerimônicas do Scrum
-Sprint (Principal evento do SCRUM) dura até 30 dias corridos ou menos. Nesse período as atividades abaixo devem ser desenvolvidas.
+- Sprint (Principal evento do SCRUM)
 - Planejamento da Sprint (Sprint Planning)
 - Reunião Diária (Daily Scrum)
 - Revisão da Sprint (Sprint Review)
@@ -184,16 +184,17 @@ O Product Owner representa a área de negócios (não é um comitê), Tem podere
 - Sabe as necessidades a serem atendidas
 - Conhece o público que utiliza os serviços
 - Conhece os objetivos a serem alcançados
-- Quem visualiza valor que sera agregado
+- Quem visualiza valor que será agregado
 - Define a ordem das atividades
 - Define as funcionalidades do software
 - Responsável por cancelar a Sprint
 - Responsável pelo estudo para priorizar caso nenhuma atividade seja possível ser executada.
 - Não é chefe do Time de desenvolvimento nem do SM
+- 
+### Objetivo do PO
 - Trazer o máximo de valor possível para o produto
 - Entender o objetivo do produto e o que ele quer alcançar
 - Quem vai utilizar 
-- Como vai utilizar
 - Em qual circuntâncias o produto será usado? 
 - Validar se o produto faz sentido ou não
 - Não  é obrigado estar nas Daily
@@ -239,26 +240,40 @@ necessário para entregar o software funcionando.
 - Se adapta aos novo cenários com facilidade
 - 
 # Descrição das Cerimônias do Scrum
-## Refining (primeira Reunião)
-Time-Box: No máximo 8 horas.
+- Sprint (Principal evento do SCRUM)
+- Planejamento da Sprint (Sprint Planning)
+- Reunião Diária (Daily Scrum)
+- Revisão da Sprint (Sprint Review)
+- Retrospectiva da Sprint (Sprint Retrospective)
 
-É a primeira reunião, a Refining não faz parte do Scrum mas aumenta a qualidade da planning, tem o objetivo de informar ao time previamente o que vai ser desenvolvido e tirar dúvidas.
-
-- A partir do Product BackLog, o PO pega os itens mais refinados e priorizados do product Backlog
-- O PO apresenta ao time as estórias que serão implementadas na Planning (podem ser alteradas)
-- O time lê, Tira duvidas e confere as estórias.
+Sprint (Corrida, arrancada) e dura até 30 dias corridos ou menos. Nesse período as atividades abaixo devem ser desenvolvidas.
+Time Box - 8 Horas é o tempo máximo para se fazer uma cerimônica.
 
 # Sprint Planning
 Time-Box: No máximo 8 horas.
 
-Uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint. E participa o PO o SM e Devtime. No final dessa reunião a equipe deve definir:
- 
-- Nas primeiras 4 horas, O PO apresenta as funcionalidades e explica os porquês.
-- Nas outras 4 horas, os devs pegam as estórias para analizar a complexidade, usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
+### Planejando a Sprint
+Primeira Reunião Refining
+Time-Box: No máximo 8 horas.
+
+### Nas primeiras 4 horas
+- O PO apresenta as funcionalidades e explica os porquês.
+Refining é a primeira reunião, e participa o PO o SM e Devtime. a Refining não faz parte do Scrum mas aumenta a qualidade da 
+planning, tem o objetivo de informar ao time previamente o que vai ser desenvolvido e tirar dúvidas. 
+
+- A partir do Product BackLog priorizado o PO apresenta ao time o que fazer na Sprint, as estórias que serão implementadas na Sprint que podem ser alteradas, pelo time time que lê, tira dúvidas e confere as estórias.
+
+É uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint.  No final dessa reunião a equipe deve definir:
+
+### Próximas 4 horas 
+Participa dessa reunião o SM e Devtime, onde os devs pegam as estórias para analizar a complexidade
+- Usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
 - O time de dev pega cada estória para ver qual parte vai ser desenvolvida
-- Não é bom o PO estar nessa reunião
 - Podem quebrar estórias complexa em outras estórias
-- Devolvem ao PO a estimativa, para analise e rearranjo das prioridades e criação do Sprint backlog.
+- Devolvem ao PO a estimativa, para analise e rearranjo das prioridades
+- O PO inicia a criação do Sprint backlog.
+
+
  
 # Conceitos de gestão de projetos ágeis com Scrum
 ### Épicos -> Estórias -> Tarefas
