@@ -189,7 +189,7 @@ Se não tem critério de aceite o PO não entendeu a demanda.
 Demandantes costumam ocultar o real objetivo da demanda
 
  ### Estimativa e Planejamento de Tarefas
- Técnica Plannig Poker, é o mais usado pra fazer estimativas é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida.
+ A técnica mais utilizada para estimativa é o Plannig Poker, feita pelo timeDev, que é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida. 
  - Tarefa simples: Voto 1
  - Tarefa dificil: voto 13
  - Tarefa com nota 20: deve ser quebrada em outras
