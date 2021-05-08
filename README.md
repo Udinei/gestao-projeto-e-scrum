@@ -417,33 +417,44 @@ Reuniões com Time-Box: 15 minutos.
   - tem algum impedimento?
 - Scrum Master
 
-# Sprint Review (retrospectiva)
-
+# Retrospectiva
 ![](retrospectiva.png)
-Realizada no último dia da Sprint, tem o objetivo de verificar se a demanda agregou valor ao negócio, sendo apresentada pelo time de desenvolvimento. O Scrum master e o PO devem estar presentes nessa reunião. Cada um pode mostrar o que foi resolvido na Sprint anterior e dúvidas de negócio devem ser tiradas pelo PO.
-
-Time-Box: 3h - Sprint 30 dias
-- Time Dev apresenta para o PO o trabalho feito
-- Uma Retrospectiva da Sprint 
-  - Transparência (comprometimento)
-  - Reunião da equipe para lições aprendidas
-- BackLog deve ser atualizado
-- Todos os interesados nas entregas devem estar presentes e validar se esta de acordo ou se houve mudança de fluxo
-- É obrigatório a presença do SM e do time de desenvolvimento
-- Focada na Sprint como um todo
-- 
 - É `observado` e discutido o que foi `bom` e `ruim` na Sprint
    - `O que deve ser melhorado`
    - `O que não se deve fazer`
  - Quais `ações` a seram tomadas
    - o que `Fazer menos`
-   - o quee `Fazer mais`
-   - 
--Executada uma única vez dentro da Sprint, sempre após a conclusão da Sprint.
+   - o que `Fazer mais`
+  
+- Time Dev apresenta para o PO o trabalho feito
+- Uma Retrospectiva da Sprint 
+  - Transparência (comprometimento)
+  - Reunião da equipe para lições aprendidas
+
+# Sprint Review 
+- Time-Box: 3h - Sprint 30 dias
+Realizada no último dia da Sprint, tem o objetivo de verificar se a demanda agregou valor ao negócio, sendo apresentada pelo time de desenvolvimento. O Scrum master e o PO devem estar presentes nessa reunião. Cada um pode mostrar o que foi resolvido na Sprint anterior e dúvidas de negócio devem ser tiradas pelo PO.
+
+- BackLog deve ser atualizado
+- Todos os interesados nas entregas devem estar presentes e validar se esta de acordo ou se houve mudança de fluxo
+- É obrigatório a presença do SM e do time de desenvolvimento
+- Focada na Sprint como um todo
+- Executada uma única vez dentro da Sprint, sempre após a conclusão da Sprint.
 
 Pode ser separada em duas partes(Não obrigatório)
 - 1 parte sem o PO
 - 2 parte com o PO
+
+ # Refinamento 
+- Cerimônia não oficial do Scrum
+- Um passo antes da Planing, no final da Sprint anterior
+- Objetivo de aumentar o entedimento da demanda
+- Como será a próxima Sprint
+- Do que se trata a demanda
+- Facilitar o planejamento 
+- Todos devem estar presente 
+- A estória ja deve ter sido escrita
+- Ajuda a facilitar a planing
 
 
 # Release Planning
@@ -469,17 +480,7 @@ Pode acumular várias Sprint pra uma release (não recomendado), mas cuidado mui
    - Vários times de desenvolvimento, em uma única release.
    - Entregas distintas e times distintos
 
-   
- ### Refinamento 
-- Um passo antes da Planing, no final da Sprint anterior
-- Cerimônia não oficial do Scrum
-- Objetivo de aumentar o entedimento da demanda
-- Como será a próxima Sprint
-- Do que se trata a demanda
-- Facilitar o planejamento 
-- Todos devem estar presente 
-
-
+  
 ### Gráfico Burndown Chart Sprint 1
 O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
 
