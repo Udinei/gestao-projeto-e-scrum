@@ -167,7 +167,8 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - As Estórias são um conjunto de Épicos as tarefas um conjunto de estórias. 
 
  ### Tarefas
-- Uma tarefa é descrita em nível de negócio 
+- Tarefas é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
+- Uma tarefa é descrita em nível de negócio. 
  
 Um exemplo, Levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias e tarefas: 
 <b>Legenda  (é)Epicos, (e)estorias, (t)tarefas.</b>
@@ -198,13 +199,13 @@ Se não tem critério de aceite o PO não entendeu a demanda.
 Demandantes costumam ocultar o real objetivo da demanda
 
  ### Estimativa e Planejamento de Tarefas
- A técnica mais utilizada para `estimativa` é o <b>Plannig Poker</b>, feita pelo timeDev, que é de fato um jogo de cartas, onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida. 
+ A técnica mais utilizada para `estimativa` é o <b>Plannig Poker</b>, feita pelo timeDev, que é de fato um jogo de cartas com as sequência de fibonaci (começa por 0 e 1, o termo subsequente corresponde à soma dos dois anteriores no caso 0,1,1,2,3...), onde as tarefas são lidas e posteriormente as tarefas são criadas. O time vota e é levado em conta o trabalho manual em si o tempo que tarefa leva pra ser concluida. 
  - Tarefa simples: Voto 1
  - Tarefa dificil: voto 13
- - Tarefa com nota 20: deve ser quebrada em outras
+ - Tarefa com nota 20: deve ser quebrada em outras tarefas
  - Os membros devem justificar suas pontuações
  - Outra Técnica de estimativa: Modelo de tamanho de camisas
- - Tarefas é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
+
  
 ## Razões para adotar o SCRUM
 - Os projetos são desenvolvidos e entregue em partes menores de 2 a 4 semanas, com constantes feedback
