@@ -417,7 +417,7 @@ Reuniões com Time-Box: 15 minutos.
   - tem algum impedimento?
 - Scrum Master
 
-# Sprint Review
+# Sprint Review (retrospectiva)
 Realizada no último dia da Sprint, tem o objetivo de verificar se a demanda agregou valor ao negócio, sendo apresentada pelo time de desenvolvimento. O Scrum master e o PO devem estar presentes nessa reunião. Cada um pode mostrar o que foi resolvido na Sprint anterior e dúvidas de negócio devem ser tiradas pelo PO.
 
 Time-Box: 3h - Sprint 30 dias
@@ -429,9 +429,14 @@ Time-Box: 3h - Sprint 30 dias
 - Todos os interesados nas entregas devem estar presentes e validar se esta de acordo ou se houve mudança de fluxo
 - É obrigatório a presença do SM e do time de desenvolvimento
 - Focada na Sprint como um todo
-- É discutido o que foi bom e ruim na Sprint
-   - O que deve ser melhorado
-   - O que não se deve fazer
+- 
+- É `observado` e discutido o que foi `bom` e `ruim` na Sprint
+   - `O que deve ser melhorado`
+   - `O que não se deve fazer`
+ - Quais `ações` a seram tomadas
+   - o que `Fazer menos`
+   - o quee `Fazer mais`
+   - 
 -Executada uma única vez dentro da Sprint, sempre após a conclusão da Sprint.
 
 Pode ser separada em duas partes(Não obrigatório)
