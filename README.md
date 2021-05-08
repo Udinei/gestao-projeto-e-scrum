@@ -418,6 +418,8 @@ Reuniões com Time-Box: 15 minutos.
 - Scrum Master
 
 # Sprint Review (retrospectiva)
+
+![](retrospectiva.png)
 Realizada no último dia da Sprint, tem o objetivo de verificar se a demanda agregou valor ao negócio, sendo apresentada pelo time de desenvolvimento. O Scrum master e o PO devem estar presentes nessa reunião. Cada um pode mostrar o que foi resolvido na Sprint anterior e dúvidas de negócio devem ser tiradas pelo PO.
 
 Time-Box: 3h - Sprint 30 dias
