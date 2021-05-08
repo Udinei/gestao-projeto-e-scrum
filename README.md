@@ -323,8 +323,8 @@ planning, tem o objetivo de informar ao time previamente o que vai ser desenvolv
 
 É uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint.  No final dessa reunião a equipe deve definir:
 
-<b>Na próximas 4 horas </b>
-Outra reunião onde participa o SM e Devtime (O PO não deve participar dessa reunião) onde os devs pegam as estórias para analizar a complexidade
+<b>Nas próximas 4 horas </b>
+- Outra reunião é feita, onde participa o SM e Devtime (O PO não deve participar dessa reunião) onde os devs pegam as estórias para analizar a complexidade
 - Usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
 - O time de dev pega cada estória para ver qual parte vai ser desenvolvida
 - Podem quebrar estórias complexa em outras estórias
@@ -346,10 +346,8 @@ Deve-se:
 - Validar com os cliente se o produto esta correto e dentro das espectativas
 - Realizar as alterações necessárias mais adequada ao clinte
 
-
-
-
 # Product Backlog
+![](product-back-log.png)
 <b>Time box:</b> 8h
 Composto por épicos e estórias. As tasks e atividades são definidas pelo time de desenvolvimento e pode haver n tasks para um estorias.
 - <b>Épicos</b> - incremento sem muito detalhamento, ajuda a te direcionar os caminhos que deve seguir.
