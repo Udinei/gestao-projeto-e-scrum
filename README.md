@@ -332,9 +332,10 @@ planning, tem o objetivo de informar ao time previamente o que vai ser desenvolv
 - Para o PO iniciar a criação do Sprint backlog.
 
 
- 
 
 # Definindo escopo
+O método mais indicado é enterder o ganho primerio e depois definir o escopo.
+
 ### Abordagem eficiente para definir o escopo
 
 ![](Analisando-escopo.png)
@@ -352,11 +353,13 @@ Deve-se:
 ![](product-back-log.png)
 
 <b>Time box:</b> 8h
-Composto por épicos, estórias e tasks. E cada produto tem seu backlog. O PO deve dominar o backlog. 
+Composto por épicos e estórias. E cada produto tem seu backlog. O PO deve dominar o backlog. 
 
 - <b>Épicos</b> - incremento sem muito detalhamento, ajuda a te direcionar os caminhos que deve seguir.
 - <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
-- <b>Tasks</b>  - as atividades são definidas pelo time de desenvolvimento e pode haver "n" tasks para um estórias.
+
+<b>Nota:</b>
+- <b>Tasks</b>  - as atividades são definidas no Sprint BackLog pelo time de desenvolvimento e pode haver "n" tasks para uma estórias.
 
 ### Prioridades do Backlog
 - O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
