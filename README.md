@@ -267,7 +267,7 @@ planning, tem o objetivo de informar ao time previamente o que vai ser desenvolv
 
 É uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint.  No final dessa reunião a equipe deve definir:
 
-<p>Próximas 4 horas </n>
+<b>Próximas 4 horas </b>
 Participa dessa reunião o SM e Devtime, onde os devs pegam as estórias para analizar a complexidade
 - Usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
 - O time de dev pega cada estória para ver qual parte vai ser desenvolvida
