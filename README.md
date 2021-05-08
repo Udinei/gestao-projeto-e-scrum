@@ -175,13 +175,12 @@ Um exemplo, Levando em conta que as peças já estão prontas vamos ver Épicos 
 
  - Quadro (é)
  - Garfo (é)
-    - garfo (e)
+    - guidão (e)
        - montar guidão (t)
        - montar o garfo (t)
        - montar o garfo no quadro (t)
        - montar a roda no garfo (t)
        - montar o sistema de freio na roda (t)
-    - guidão (e)
     - amortecedores (e)
  - Celin (é)
  - Sistema de freios (é)  
@@ -396,13 +395,15 @@ Composto por épicos e estórias. E cada produto tem seu backlog. O PO deve domi
 - 
 # Daily Meeting
 Reuniões com Time-Box: 15 minutos.
-Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
-Executada diariamente dentro da Sprint, no mesmo local
-Deve ocorrer sempre no mesmo lugar e no mesmo horário
-Serve para o time saber o que cada um esta fazendo
-O PO e o SM não tem obrigatoriedade de estar nessa reunião
-Presença de todo time de desenvolvimento
-3 perguntas básicas: 
+- Somente o timeDev tem obrigação de estar nessa reunião
+- Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
+- Executada diariamente dentro da Sprint, no mesmo local
+- Deve ocorrer sempre no mesmo lugar e no mesmo horário
+- Serve para o time saber o que cada um esta fazendo
+- O PO e o SM não tem obrigatoriedade de estar nessa reunião
+- Presença de todo time de desenvolvimento
+ 
+<b>3 perguntas básicas: </b>
 - O que fiz ontem
 - O que farei hoje
 - Se tenho algum impedimento
