@@ -190,8 +190,10 @@ O Product Owner representa a área de negócios (não é um comitê), Tem podere
 - Responsável por cancelar a Sprint
 - Responsável pelo estudo para priorizar caso nenhuma atividade seja possível ser executada.
 - Não é chefe do Time de desenvolvimento nem do SM
-- 
-### Objetivo do PO
+
+
+### Objetivos do PO
+A principal caracteristica do PO é entender a demanda e extrair o maior valor possível
 - Trazer o máximo de valor possível para o produto
 - Entender o objetivo do produto e o que ele quer alcançar
 - Quem vai utilizar 
@@ -256,7 +258,7 @@ Time-Box: No máximo 8 horas.
 Primeira Reunião Refining
 Time-Box: No máximo 8 horas.
 
-### Nas primeiras 4 horas
+<b>Nas primeiras 4 horas</b>
 - O PO apresenta as funcionalidades e explica os porquês.
 Refining é a primeira reunião, e participa o PO o SM e Devtime. a Refining não faz parte do Scrum mas aumenta a qualidade da 
 planning, tem o objetivo de informar ao time previamente o que vai ser desenvolvido e tirar dúvidas. 
@@ -265,7 +267,7 @@ planning, tem o objetivo de informar ao time previamente o que vai ser desenvolv
 
 É uma reunião que envolve o planejamento da Sprint, tem como objetivo revisar o Product Backlog e definir todo trabalho que deve ser executado na próxima Sprint.  No final dessa reunião a equipe deve definir:
 
-### Próximas 4 horas 
+<p>Próximas 4 horas </n>
 Participa dessa reunião o SM e Devtime, onde os devs pegam as estórias para analizar a complexidade
 - Usam o Planning Poker(ou outra técnica), para estimar tempo das atividades e verificam se todos os pedidos do PO foram atendidos. 
 - O time de dev pega cada estória para ver qual parte vai ser desenvolvida
@@ -442,24 +444,25 @@ Pode ser separada em duas partes(Não obrigatório)
 # Release Planning
 Liberação ou lançamento de software, um nova versão a cada vez que é criado ou modificado
 o software, o fabricante e os seus desenvolvedores distribuem os produto as pessoas que o utilizam.
-Pode acumular várias Sprint pra uma release (não recomendado)
-Muitas Spring, a release pode ficar complexa
+Pode acumular várias Sprint pra uma release (não recomendado), mas cuidado muitas Sprint para uma release pode ficar complexa
 
+### Planning projeto
 <p>Obrigações do PO nessa fase:</b>
+- Gerência a espectativas do stakeholders
 - Definir as maiores entregas de valor
-- Organizar as Sprint
-- Organizar as Release
- 
-`Planning de múltiplas Squads` - Squad é o nome dado ao time que roda no método ágil com framework Scrum, e contém de 3 a 9 membros.
+- Organizar as Sprint trazendo mais valor
+- Organizar as Release trazendo mais valor ainda
+- Quebrar estórias com estregas de valor primeiro
+- PO deve acompanhar Deploy e testes
+- PO não é gerente de projeto
+- PO tira todas dúvidas do time
+
+### Planning de múltiplas Squads
+ Squad é o nome dado ao time que roda no método ágil com framework Scrum, e contém de 3 a 9 membros.
 
    - Vários times de desenvolvimento, em uma única release.
    - Entregas distintas e times distintos
-   - PO deve acompanhar Deploy e testes
-   - Gerência a espectativas do stakeholders
-   - Quebrar estórias com estregas de valor primeiro
-   - PO não é gerente de projeto
-   - Organizar release
-   - PO tira todas dúvidas do time
+
    
  ### Refinamento 
 - Um passo antes da Planing, no final da Sprint anterior
