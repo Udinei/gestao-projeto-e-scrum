@@ -203,8 +203,9 @@ Demandantes costumam ocultar o real objetivo da demanda
  - Tarefa simples: Voto 1
  - Tarefa dificil: voto 13
  - Tarefa com nota 20: deve ser quebrada em outras tarefas
- - Os membros devem justificar suas pontuações
- - Outra Técnica de estimativa: Modelo de tamanho de camisas
+ - Os membros que derem a maior e menor nota, devem justificar suas pontuações, pois pode ser que tenham pensado alguma coisa que os outros membros não pensaram.
+ - 
+<b>Outra Técnica de estimativa:</b> Modelo de tamanho de camisas
 
  
 ## Razões para adotar o SCRUM
