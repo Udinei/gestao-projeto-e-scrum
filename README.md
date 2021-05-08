@@ -402,7 +402,7 @@ Presença de todo time de desenvolvimento
   - tem algum impedimento?
 - Scrum Master
 
-### Sprint Review
+# Sprint Review
 Realizada no último dia da Sprint, tem o objetivo de verificar se a demanda agregou valor ao negócio, sendo apresentada pelo time de desenvolvimento. O Scrum master e o PO devem estar presentes nessa reunião. Cada um pode mostrar o que foi resolvido na Sprint anterior e dúvidas de negócio devem ser tiradas pelo PO.
 
 Time-Box: 3h - Sprint 30 dias
@@ -431,6 +431,7 @@ Pode acumular várias Sprint pra uma release (não recomendado), mas cuidado mui
 
 ### Planning projeto
 <p>Obrigações do PO nessa fase:</b>
+
 - Gerência a espectativas do stakeholders
 - Definir as maiores entregas de valor
 - Organizar as Sprint trazendo mais valor
