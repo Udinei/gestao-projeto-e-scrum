@@ -298,17 +298,17 @@ necessário para entregar o software funcionando.
 - Se adapta aos novo cenários com facilidade
 - 
 # Descrição das Cerimônias do Scrum
-- Sprint (Principal evento do SCRUM)
+Time Box - 8 Horas é o tempo máximo para se fazer uma cerimônia.
 - Planejamento da Sprint (Sprint Planning)
 - Reunião Diária (Daily Scrum)
 - Revisão da Sprint (Sprint Review)
 - Retrospectiva da Sprint (Sprint Retrospective)
 
-Sprint (Corrida, arrancada) e dura até 30 dias corridos ou menos. Nesse período as atividades abaixo devem ser desenvolvidas.
-Time Box - 8 Horas é o tempo máximo para se fazer uma cerimônica.
 
 # Sprint Planning
 Time-Box: No máximo 8 horas.
+A Sprint é o principal evento do SCRUM, um periodo de tempo onde as atividades para fazer o produto são executadas, Sprint siguinifica (Corrida, arrancada) e dura até 30 dias corridos ou menos. 
+
 
 ### Planejando a Sprint
 Primeira Reunião Refining
