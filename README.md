@@ -334,27 +334,19 @@ Demandantes costumam ocultar o real objetivo da demanda
 - ONGs
 - Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
  
-
-### Sprint Backlog
-- Com o Sprint Backlog, o PO devéra validar a prioridade e que considerado o objetivo principal da Sprint
-- Estórias mapeadas e atividades escritas
-- Quais atividades serão desenvolvidas primeiro
-- Quantas funcionalidades cabe na Sprint
-- O principal objetivo da Sprint
-- O que será entregue no final da Sprint
-
-### Analisando escopo e definindo prioridades
-- Muito complexo
-- Mais dificil
-- Definição do escopo
- 
+# Definindo escopo
 ### Abordagem eficiente para definir o escopo
+![](Analisando-escopo.png)
 Forma eficiente de definir o escopo, é inverter a ordem pra entender o objetivo e valor que quer atingir, antes mesmo de definir o como, mais possibilidade irão aparecer e caminhos pra atingir o objetivo. Um caminho a trilhar até o objetivo, usando os feedback do cliente desde o começo e criando um MVP.
 
+
+![](prioridade.png)
 Deve-se:
 - Inspecionar cada entrega
-- Validar com os cliente se o produto esta correto e dentro da espectativas
+- Validar com os cliente se o produto esta correto e dentro das espectativas
 - Realizar as alterações necessárias mais adequada ao clinte
+
+
 
 
 # Product Backlog
@@ -364,7 +356,7 @@ Composto por épicos e estórias. As tasks e atividades são definidas pelo time
 - <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
 - Cada produto tem seu backlog
 - PO deve dominar o backlog
-  
+
 ### Prioridades
 - O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
 - O quê fazer? 
@@ -397,6 +389,14 @@ Regras de negocio
 - Tagueamento (como a estória será tagueada para poder mensurar os KPI )
 - Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estória deve cumprir para que ela seja considerada aceita)
 
+### Sprint Backlog
+- Com o Sprint Backlog, o PO devéra validar a prioridade e que considerado o objetivo principal da Sprint
+- Estórias mapeadas e atividades escritas
+- Quais atividades serão desenvolvidas primeiro
+- Quantas funcionalidades cabe na Sprint
+- O principal objetivo da Sprint
+- O que será entregue no final da Sprint
+- 
 # Daily Meeting
 Reuniões com Time-Box: 15 minutos.
 Com o objetivo de saber o que falta pra terminar a Sprint e não um status report
