@@ -350,6 +350,7 @@ Deve-se:
 
 # Product Backlog
 ![](product-back-log.png)
+
 <b>Time box:</b> 8h
 Composto por épicos, estórias e tasks. E cada produto tem seu backlog. O PO deve dominar o backlog. 
 
@@ -357,40 +358,21 @@ Composto por épicos, estórias e tasks. E cada produto tem seu backlog. O PO de
 - <b>Estórias</b> - Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sua regras de negocio.
 - <b>Tasks</b>  - as atividades são definidas pelo time de desenvolvimento e pode haver "n" tasks para um estórias.
 
-
-### Prioridades
+### Prioridades do Backlog
 - O PO apresenta as prioridades das funcionalidade a serem implementadas ao time.
 - O quê fazer? 
 - Como fazer? 
   
-### Escrevendo estória
-Nome da estória
-Descrição da estória
-
- - Eu, como, quero, quando
- 
-Regras de negocio 
-
-  (Separar regras de front-end e back-end)
-  
- Tela (Link ou imagem das telas a serem desenvolvidas)
- 
- KPI (Quais os objetivos/valor a estória precisa atingir)
- 
- Tagueamento (como a estória será tagueada para poder mensurar os KPI )
- 
- Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estoria deve cumprir para que ela seja considerada aceita)
-
-<b>Script de estórias</b>
+### Script para escrever Estórias
 - Nome da estória
-- Descrição da estória
-- Regras de negocio 
+- Descrição da estória ( Eu, como, quero, quando)
+- Regras de negocio (Separar regras de front-end e back-end)
 - Tela (Link ou imagem das telas a serem desenvolvidas)
 - KPI (Quais os objetivos/valor a estória precisa atingir)
 - Tagueamento (como a estória será tagueada para poder mensurar os KPI )
 - Critérios de aceite  (Qual o Passo a Passo de todos os caminhos felizes possiveis a estória deve cumprir para que ela seja considerada aceita)
 
-### Sprint Backlog
+# Sprint Backlog
 - Com o Sprint Backlog, o PO devéra validar a prioridade e que considerado o objetivo principal da Sprint
 - Estórias mapeadas e atividades escritas
 - Quais atividades serão desenvolvidas primeiro
