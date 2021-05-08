@@ -460,6 +460,18 @@ Pode acumular várias Sprint pra uma release (não recomendado), mas cuidado mui
 - Facilitar o planejamento 
 - Todos devem estar presente 
 
+
+### Gráfico Burndown Chart Sprint 1
+O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
+
+![](/Burndown.png)
+
+
+### O Gráfico de Burnup
+O Gráfico Burnup mostra a quantidade de trabalho concluída.
+
+![](/Burnup_gráfico.png)
+
 # Papel do PO na transformação Digital
 
 Transformação digital:
@@ -476,8 +488,8 @@ Transformação digital:
 - Ter a mente focada em atender o cliente da melhor forma possivel
 - PO é quem entende a necessidade do cliente
 
-
-###  Uso do Kanban Board no Scrum
+# Kanban 
+O uso do Kanban Board no Scrum
 ![](/kanban2.jpg)
 
 Créditos: [Jorgeaudy.com](https://jorgeaudy.com/)
@@ -505,18 +517,6 @@ Possibilita que o time de trabalho execute suas tarefas com mais clareza e colab
 - Aguardando deploy
 - Em deploy
 - Concluído
-
-
-### Gráfico Burndown Chart Sprint 1
-O gráfico de Burndown junto com o gráfico Burnup, na metodologia Scrum mostra como está a produtividade da sua equipe em relação aos prazos determinados durante a fase de planejamento do seu projeto. Sendo que Burndown mostra o que falta para concluir o projeto. 
-
-![](/Burndown.png)
-
-
-### O Gráfico de Burnup
-O Gráfico Burnup mostra a quantidade de trabalho concluída.
-
-![](/Burnup_gráfico.png)
 
 
 # Por onde começar o uso do Scrum
