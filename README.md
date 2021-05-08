@@ -160,8 +160,17 @@ Meios pelos quais o Scrum passa a sensação de felicidade
 - Estado, sindicato etc..que estejam relacionadas com uma determinada ação ou projeto.
  
  
-### Épicos -> Estórias -> Tarefas
-Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. As Estórias são um conjunto de Épicos as tarefas um conjunto de estórias. Por exemplo, levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias:  (é)Epicos, (e)estorias, (t)tarefas.
+### Épicos
+- Épico é objetivo macro que deve ser atingido, e deve ser quebrado em objetivos menores. 
+
+### Estórias
+- As Estórias são um conjunto de Épicos as tarefas um conjunto de estórias. 
+
+ ### Tarefas
+- Uma tarefa é descrita em nível de negócio 
+ 
+Um exemplo, Levando em conta que as peças já estão prontas vamos ver Épicos do projeto de uma bicicleta e suas estórias e tarefas: 
+<b>Legenda  (é)Epicos, (e)estorias, (t)tarefas.</b>
 
  - Quadro (é)
  - Garfo (é)
