@@ -4,7 +4,7 @@ Este projeto é um resumo dos cursos de Projetos ágeis com Scrum realizado na D
 ![](/framework-scrum.png)
 Framework Scrum by Voitto. Fonte: RUBIN, Kenneth S. Scrum essencial: um guia prático para o mais popular processo ágil. Rio de Janeiro: Alta Books, 2017
 
-# Lógica do desafio de desenvolvimento de software
+# Desafios de desenvolvimento de software
 
 ![](/logica-desenvolvimento-software.png)
 
