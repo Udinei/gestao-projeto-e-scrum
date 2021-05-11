@@ -1,7 +1,7 @@
 # gestao-projeto-e-scrum
 Este projeto é um resumo do curso Projetos ágeis com Scrum realizado na Digital Innovation One, ministrado por Thiago Sano e Diego Pereira. Um conjunto de conceitos, idéias e anotações sobre o uso do Scrum no dia a dia.
-![](/what-is-scrum.png)
-Créditos: [Simpla](https://www.sympla.com.br/)
+![](/framework-scrum.png)
+Framework Scrum by Voitto. Fonte: RUBIN, Kenneth S. Scrum essencial: um guia prático para o mais popular processo ágil. Rio de Janeiro: Alta Books, 2017
 
 # Lógica do desafio de desenvolvimento de software
 - Objetivo de negócio (Requisitos)
